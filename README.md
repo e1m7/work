@@ -19,7 +19,7 @@
 
 **Проектирование требований** 
 1. определение требований к информационной системе
-2. UseCase-диграмма [ссылка](https://nationalteam.worldskills.ru/skills/proektirovanie-use-case-diagrammy-opredelenie-funktsionalnykh-vozmozhnostey-sistemy/)
+2. UseCase-диаграмма [ссылка](https://nationalteam.worldskills.ru/skills/proektirovanie-use-case-diagrammy-opredelenie-funktsionalnykh-vozmozhnostey-sistemy/)
 3. создание спецификации к прецедентам
 
 **Проектирование UML-диаграмм**
@@ -49,6 +49,19 @@
 **Разработка мобильного приложения**
 1. создание мобильного приложения [ссылка](https://www.youtube.com/playlist?list=PLH3y3SWteZd35qQ-d7qkBsj45JjQs1o6h)
 2. тестирование работы приложения
+
+**Создание инсталлятора**
+1. создание инсталлятора [ссылка](https://youtu.be/aYcYamTI6ys)
+
+**Создание тестов**
+1. создание тестов [ссылка](https://youtu.be/p3EUhUjv2LM)
+
+**Создание руководства пользователя**
+1. ГОСТ [ссылка](http://it-gost.ru/content/view/94/51/)
+
+## Материалы
+1. Все документы и примеры [ссылка](https://disk.yandex.ru/d/RmmT3tt9HGTFLA)
+2. Добавление, удаление, поиск в формах [ссылка](https://it-black.ru/rabota-s-bazoj-dannyh-v-ci_sharp/)
 
 
 
