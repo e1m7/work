@@ -2,6 +2,7 @@
 
 Оглавление
 1. [Подготовка к демо-экзамену теория](https://github.com/e1m7/work#%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BA-%D0%B4%D0%B5%D0%BC%D0%BE-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83)
+2. [Подготовка к демо-экзамену материалы](https://github.com/e1m7/work/blob/main/README.md#%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B)
 
 ## Подготовка к демо-экзамену
 
@@ -66,6 +67,21 @@
 1. Все документы и примеры [ссылка](https://disk.yandex.ru/d/RmmT3tt9HGTFLA)
 2. Добавление, удаление, поиск в формах [ссылка](https://it-black.ru/rabota-s-bazoj-dannyh-v-ci_sharp/)
 
+## Разработка мобильных приложений
+
+1 семестр
+1. [Основы алгоритмов](https://code.org/minecraft)
+2. [Основы языка Blokly](https://www.youtube.com/playlist?list=PLiXXnd7WHCGwZQk2EkTCUw1rmSNoUjlYQ)
+3. [Файлы для языка Blokly](https://disk.yandex.ru/d/_njx5i9AS3nyNQ)
+4. [Основы HTML/CSS](https://stepik.org/course/52164)
+5. [Основы JavaScript](https://stepik.org/course/2223)
+
+2 семестр
+1. [Основы Svelte](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO)
+2. [Основы Native Script](https://www.youtube.com/playlist?list=PLYxzS__5yYQnbduR0rpntEcXIhftdz15n)
+3. [Основы TypeScript](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
+4. [Основы технологии Xamarin](https://www.youtube.com/playlist?list=PLH3y3SWteZd35qQ-d7qkBsj45JjQs1o6h)
+5. [Основы технологии Flatter](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
 
 
 
