@@ -92,6 +92,7 @@
 1 семестр
 1. [Язык Ruby основы](https://disk.yandex.ru/d/SVXjxM8-cai60A)
 2. [Язык Ruby ООП](https://disk.yandex.ru/d/_mj1sKL3D4DKYQ)
+3. [Получение сертификата](https://stepik.org/course/87996)
 
 2 семестр
 1. [Язык Си-шарп](https://www.youtube.com/watch?v=GhQdlIFylQ8)
