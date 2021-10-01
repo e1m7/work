@@ -84,6 +84,37 @@
 4. [Основы технологии Xamarin](https://www.youtube.com/playlist?list=PLH3y3SWteZd35qQ-d7qkBsj45JjQs1o6h)
 5. [Основы технологии Flatter](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
 
+## Алгоритмы и языки программирования
 
+1 семестр
+1. [Язык Ruby основы](https://disk.yandex.ru/d/SVXjxM8-cai60A)
+2. [Язык Ruby ООП](https://disk.yandex.ru/d/_mj1sKL3D4DKYQ)
+
+2 семестр
+1. [Язык Си-шарп](https://www.youtube.com/watch?v=GhQdlIFylQ8)
+2. [Windows Forms основы](https://www.youtube.com/playlist?list=PLTbLgUhfboqxxB14zFDaPHHO7nWZgoa95)
+3. [Windows Forms авторизация](https://www.youtube.com/playlist?list=PL0lO_mIqDDFWOMqSKFaLypANf1W7-o87q)
+
+## Технология программного обеспечения
+
+Вариант 1
+1. [Little Man Computer 1](https://slides.com/ivansedov/little_man_computer_01)
+2. [Little Man Computer 2](https://slides.com/ivansedov/little_man_computer_02)
+3. [Little Man Computer 3](https://slides.com/ivansedov/little_man_computer_03)
+4. [Основы языка ассемблер 1](https://slides.com/ivansedov/assembler8_01)
+5. [Основы языка ассемблер 2](https://slides.com/ivansedov/assembler8_02)
+6. [Основы языка ассемблер 3](https://slides.com/ivansedov/assembler8_03)
+7. [Основы языка ассемблер 4](https://slides.com/ivansedov/assembler8_04)
+8. [Основы языка ассемблер 5](https://slides.com/ivansedov/assembler8_05)
+9. [Основы языка ассемблер 6](https://slides.com/ivansedov/assembler8_06)
+10. [Основы языка ассемблер 7](https://slides.com/ivansedov/assembler8_07)
+11. [Основы языка ассемблер 8](https://slides.com/ivansedov/assembler8_08)
+
+Вариант 2
+1. [Основы языка Python](https://www.youtube.com/watch?v=rfscVS0vtbw)
+2. [Осноы создания компилятора 1](https://slides.com/ivansedov/compilers_01)
+3. [Осноы создания компилятора 2](https://slides.com/ivansedov/compilers_02)
+4. [Осноы создания компилятора 3](https://slides.com/ivansedov/compilers_03)
+5. [Осноы создания компилятора 4](https://slides.com/ivansedov/compilers_04)
 
 
