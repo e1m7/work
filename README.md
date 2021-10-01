@@ -115,9 +115,9 @@
 
 Вариант 2
 1. [Основы языка Python](https://www.youtube.com/watch?v=rfscVS0vtbw)
-2. [Осноы создания компилятора 1](https://slides.com/ivansedov/compilers_01)
-3. [Осноы создания компилятора 2](https://slides.com/ivansedov/compilers_02)
-4. [Осноы создания компилятора 3](https://slides.com/ivansedov/compilers_03)
-5. [Осноы создания компилятора 4](https://slides.com/ivansedov/compilers_04)
+2. [Основы создания компилятора 1](https://slides.com/ivansedov/compilers_01)
+3. [Основы создания компилятора 2](https://slides.com/ivansedov/compilers_02)
+4. [Основы создания компилятора 3](https://slides.com/ivansedov/compilers_03)
+5. [Основы создания компилятора 4](https://slides.com/ivansedov/compilers_04)
 
 
