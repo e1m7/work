@@ -17,6 +17,25 @@
 | Общий профессионализм   | 7,5        |
 | Итого   | 77,2        |
 
-## Материалы
-[Все материалы](https://disk.yandex.ru/d/RmmT3tt9HGTFLA)
+**Проектирование требований** 
+1) определение требований к информационной системе
+2) UseCase-диграмма [ссылка](https://nationalteam.worldskills.ru/skills/proektirovanie-use-case-diagrammy-opredelenie-funktsionalnykh-vozmozhnostey-sistemy/)
+3) создание спецификации к прецедентам
+
+**Проектирование UML-диаграмм**
+1) диаграмма деятельности Activity [ссылка](https://youtu.be/0I9aIP5gKCg)
+2) диаграмма последовательностей Sequence [ссылка](https://youtu.be/0I9aIP5gKCg)
+3) дмаграмма состояний State Machine [ссылка](https://youtu.be/0I9aIP5gKCg)
+
+**Проектирование ERD-диаграммы**
+1) анализ предметной области
+2) анализ исходных файлов
+3) проектирование диаграммы сущность-связь [ссылка](https://youtu.be/uKImrwjOKTU)
+
+**Разработка и импорт базы данных**
+1) реализация базы данных в СУБД
+2) создание базы данных через скрипт
+3) приведение данных к виду, подходящему для импорта [ссылка](https://nationalteam.worldskills.ru/skills/rabota-s-nestrukturirovannymi-dannymi-obrabotka-i-import-v-bazu-dannykh/)
+4) импорт данных в базу данных
+
 
