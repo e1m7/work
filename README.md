@@ -134,18 +134,21 @@
 
 | Технология      | Часы |
 | ----------- | ----------- |
-| [HTML](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc)      | 17 уроков       |
-| [CSS](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT)     | 53 урока       |
-| [JavaScript](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)      | 46 уроков       |
-| [Ruby](https://www.youtube.com/watch?v=t_ispmWmdjY)     | 4 часа       |
-| [Ruby on Rails](https://www.youtube.com/watch?v=fmyvWz5TUWg)     | 4 часа       |
-| [Python](https://www.youtube.com/watch?v=rfscVS0vtbw)     |  4 часа      |
-| [Flask](https://www.youtube.com/watch?v=Z1RJmh_OqeA)      |  1 час      |
-| [MySQL](https://www.youtube.com/watch?v=ER8oKX5myE0)  |  2 часа      |
-| [React](https://www.youtube.com/watch?v=DLX62G4lc44)      |   5 часов     |
-| [Angular](https://www.youtube.com/watch?v=2OHbjep_WjQ)     | 6 часов       |
-| [Vue](https://www.youtube.com/watch?v=4deVCNJq3qc)      | 3 часа       |
-| [Svelte](https://youtu.be/vhGiGqZ78Rs)  | 1 час  |
-| [Blockchain](https://www.youtube.com/watch?v=M576WGiDBdQ) | 16 часов |
-| [Machine Learning](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) | 10 уроков |
+| [Язык гипертекстовой разметки HTML](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc)      | 17 уроков       |
+| [Каскадные таблицы стилей CSS](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT)     | 53 урока       |
+| [Язык программирования JavaScript](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)      | 46 уроков       |
+| [Язык программирования Ruby](https://www.youtube.com/watch?v=t_ispmWmdjY)     | 4 часа       |
+| [Фреймворк Ruby on Rails](https://www.youtube.com/watch?v=fmyvWz5TUWg)     | 4 часа       |
+| [Язык программирования Python](https://www.youtube.com/watch?v=rfscVS0vtbw)     |  4 часа      |
+| [Фреймворк Flask](https://www.youtube.com/watch?v=Z1RJmh_OqeA)      |  1 час      |
+| [Базы данных MySQL](https://www.youtube.com/watch?v=ER8oKX5myE0)  |  2 часа      |
+| [Фреймворк React](https://www.youtube.com/watch?v=DLX62G4lc44)      |   5 часов     |
+| [Фреймворк Angular](https://www.youtube.com/watch?v=2OHbjep_WjQ)     | 6 часов       |
+| [Фреймворк Vue](https://www.youtube.com/watch?v=4deVCNJq3qc)      | 3 часа       |
+| [Фреймворк Svelte](https://youtu.be/vhGiGqZ78Rs)  | 1 час  |
+| [Smart-контракты и технология Blockchain](https://www.youtube.com/watch?v=M576WGiDBdQ) | 16 часов |
+| [Технология Machine Learning](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) | 10 уроков |
+| [Язык LISP](https://youtu.be/ymSq4wHrqyU)| 1 час |
+| [Язык Haskell](https://youtu.be/02_H3LjqMr8)| 1 час |
+
 
