@@ -80,8 +80,8 @@
 
 1 семестр
 1. [Основы алгоритмов](https://code.org/minecraft)
-2. [Основы языка Blokly](https://www.youtube.com/playlist?list=PLiXXnd7WHCGwZQk2EkTCUw1rmSNoUjlYQ)
-3. [Файлы для языка Blokly](https://disk.yandex.ru/d/_njx5i9AS3nyNQ)
+2. [Основы языка Bloсkly](https://www.youtube.com/playlist?list=PLiXXnd7WHCGwZQk2EkTCUw1rmSNoUjlYQ)
+3. [Файлы для языка Bloсkly](https://disk.yandex.ru/d/_njx5i9AS3nyNQ)
 4. [Основы HTML/CSS](https://stepik.org/course/52164)
 5. [Основы JavaScript](https://stepik.org/course/2223)
 
