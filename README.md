@@ -7,6 +7,7 @@
 3. [Разработка мобильных приложений](https://github.com/e1m7/work#%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9)
 4. [Алгоритмы и языки программирования](https://github.com/e1m7/work#%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B-%D0%B8-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
 5. [Технологии программного обеспечения](https://github.com/e1m7/work#%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-%D1%81%D0%BF%D0%B5%D1%86%D0%BA%D1%83%D1%80%D1%81)
+6. Самообразование
 
 ## Подготовка к демо-экзамену теория
 
@@ -129,4 +130,22 @@
 5. [Основы создания компилятора 3](https://slides.com/ivansedov/compilers_03)
 6. [Основы создания компилятора 4](https://slides.com/ivansedov/compilers_04)
 
+## Самообразование
+
+| Технология      | Часы |
+| ----------- | ----------- |
+| [HTML](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc)      | 17 уроков       |
+| [CSS](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT)     | 53 урока       |
+| [JavaScript](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)      | 46 уроков       |
+| [Ruby](https://www.youtube.com/watch?v=t_ispmWmdjY)     | 4 часа       |
+| [Ruby on Rails](https://www.youtube.com/watch?v=fmyvWz5TUWg)     | 4 часа       |
+| [Python](https://www.youtube.com/watch?v=rfscVS0vtbw)     |  4 часа      |
+| [Flask](https://www.youtube.com/watch?v=Z1RJmh_OqeA)      |  1 час      |
+| [MySQL](https://www.youtube.com/watch?v=ER8oKX5myE0)  |  2 часа      |
+| [React](https://www.youtube.com/watch?v=DLX62G4lc44)      |   5 часов     |
+| [Angular](https://www.youtube.com/watch?v=2OHbjep_WjQ)     | 6 часов       |
+| [Vue](https://www.youtube.com/watch?v=4deVCNJq3qc)      | 3 часа       |
+| [Svelte](https://youtu.be/vhGiGqZ78Rs)  | 1 час  |
+| [Blockchain](https://www.youtube.com/watch?v=M576WGiDBdQ) | 16 часов |
+| [Machine Learning](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) | 10 уроков |
 
