@@ -134,24 +134,24 @@
 
 Требования к программисту меняются каждый год. Одни языки отмирают, другие приходят им на смену. Некоторые языки и технологии "держаться" годами и их знание является обязательным для молодого специалиста. С введением демо-экзамена WorldSkills на языке C# для выпускника профессионального колледжа вопрос "что учить" больше не актуален: он должен учить связку C# + Windows Form + SQLServer и его задача за два года освоить написание простейшей desktop-программы по обработке базы данных. Но не будем забывать о том, что выпускник колледжа может попасть на работу в фирму, которая занимается программированием и ему надо будет показать умения во всех остальных областях информационых технологий. Вот краткий список бесплатных курсов по тем технологиям, которые, по-моему мнению, будут актуальны для молодого программиста еще долгое время. Рекомендую вам изучить их, чтобы найти работу программистом и получать реальные деньги.
 
-| Технология     | Ссылка | Время | 
-| ----------- | ----------- | ----------- |
-| Язык гипертекстовой разметки HTML | [ссылка](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc)      | 17 уроков       |
-| Каскадные таблицы стилей CSS | [ссылка](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT)     | 53 урока       |
-| Язык программирования JavaScript | [ссылка](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)      | 46 уроков       |
-| Язык программирования Ruby | [ссылка](https://www.youtube.com/watch?v=t_ispmWmdjY)     | 4 часа       |
-| Фреймворк Ruby on Rails | [ссылка](https://www.youtube.com/watch?v=fmyvWz5TUWg)     | 4 часа       |
-| Язык программирования Python | [ссылка](https://www.youtube.com/watch?v=rfscVS0vtbw)     |  4 часа      |
-| Фреймворк Flask | [ссылка](https://www.youtube.com/watch?v=Z1RJmh_OqeA)      |  1 час      |
-| Базы данных MySQL | [ссылка](https://www.youtube.com/watch?v=ER8oKX5myE0)  |  2 часа      |
-| Фреймворк React |[ссылка](https://www.youtube.com/watch?v=DLX62G4lc44)      |   5 часов     |
-| Фреймворк Angular |[ссылка](https://www.youtube.com/watch?v=2OHbjep_WjQ)     | 6 часов       |
-| Фреймворк Vue | [ссылка](https://www.youtube.com/watch?v=4deVCNJq3qc)      | 3 часа       |
-| Фреймворк Svelte | [ссылка](https://youtu.be/vhGiGqZ78Rs)  | 1 час  |
-| Smart-контракты и технология Blockchain | [ссылка](https://www.youtube.com/watch?v=M576WGiDBdQ) | 16 часов |
-| Технология Machine Learning | [ссылка](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) | 10 уроков |
-| Язык LISP | [ссылка](https://youtu.be/ymSq4wHrqyU)| 1 час |
-| Язык Haskell | [ссылка](https://youtu.be/02_H3LjqMr8)| 1 час |
+| Номер | Технология     | Ссылка | Время | 
+| ----------- | ----------- | ----------- | ----------- |
+|1| Язык гипертекстовой разметки HTML | [ссылка](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc)      | 17 уроков       |
+|2| Каскадные таблицы стилей CSS | [ссылка](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT)     | 53 урока       |
+|3| Язык программирования JavaScript | [ссылка](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)      | 46 уроков       |
+|4| Язык программирования Ruby | [ссылка](https://www.youtube.com/watch?v=t_ispmWmdjY)     | 4 часа       |
+|5| Фреймворк Ruby on Rails | [ссылка](https://www.youtube.com/watch?v=fmyvWz5TUWg)     | 4 часа       |
+|6| Язык программирования Python | [ссылка](https://www.youtube.com/watch?v=rfscVS0vtbw)     |  4 часа      |
+|7| Фреймворк Flask | [ссылка](https://www.youtube.com/watch?v=Z1RJmh_OqeA)      |  1 час      |
+|8| Базы данных MySQL | [ссылка](https://www.youtube.com/watch?v=ER8oKX5myE0)  |  2 часа      |
+|9| Фреймворк React |[ссылка](https://www.youtube.com/watch?v=DLX62G4lc44)      |   5 часов     |
+|10| Фреймворк Angular |[ссылка](https://www.youtube.com/watch?v=2OHbjep_WjQ)     | 6 часов       |
+|11| Фреймворк Vue | [ссылка](https://www.youtube.com/watch?v=4deVCNJq3qc)      | 3 часа       |
+|12| Фреймворк Svelte | [ссылка](https://youtu.be/vhGiGqZ78Rs)  | 1 час  |
+|13| Smart-контракты и технология Blockchain | [ссылка](https://www.youtube.com/watch?v=M576WGiDBdQ) | 16 часов |
+|14| Технология Machine Learning | [ссылка](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) | 10 уроков |
+|15| Язык LISP | [ссылка](https://youtu.be/ymSq4wHrqyU)| 1 час |
+|16| Язык Haskell | [ссылка](https://youtu.be/02_H3LjqMr8)| 1 час |
 
 Удачи.
 
