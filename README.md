@@ -131,7 +131,7 @@
 11. [Основы языка ассемблер 8](https://slides.com/ivansedov/assembler8_08)
 
 Вариант 2
-1. [Основы создания компилятора 1](https://slides.com/ivansedov/compilers_01)
+1. [Основы создания компилятора 1](https://slides.com/ivansedov/compilers-01)
 3. [Основы языка Python](https://www.youtube.com/watch?v=rfscVS0vtbw)
 4. [Основы создания компилятора 2](https://slides.com/ivansedov/compilers-02)
 5. [Основы создания компилятора 3](https://slides.com/ivansedov/compilers-03)
