@@ -91,15 +91,12 @@
 1. [Основы алгоритмов](https://code.org/minecraft)
 2. [Основы языка Bloсkly](https://www.youtube.com/playlist?list=PLiXXnd7WHCGwZQk2EkTCUw1rmSNoUjlYQ)
 3. [Файлы для языка Bloсkly](https://disk.yandex.ru/d/_njx5i9AS3nyNQ)
-4. [Основы HTML/CSS](https://stepik.org/course/52164)
-5. [Основы JavaScript](https://stepik.org/course/2223)
 
 2 семестр
-1. [Основы Svelte](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO)
-2. [Основы Native Script](https://www.youtube.com/playlist?list=PLYxzS__5yYQnbduR0rpntEcXIhftdz15n)
-3. [Основы TypeScript](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
-4. [Основы технологии Xamarin](https://www.youtube.com/playlist?list=PLH3y3SWteZd35qQ-d7qkBsj45JjQs1o6h)
-5. [Основы технологии Flatter](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
+1. [Основы HTML/CSS](https://stepik.org/course/52164)
+2. [Основы JavaScript](https://stepik.org/course/2223)
+3. [Основы Svelte](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO)
+4. [Основы Native Script](https://www.youtube.com/playlist?list=PLYxzS__5yYQnbduR0rpntEcXIhftdz15n)
 
 ## Алгоритмы и языки программирования
 
