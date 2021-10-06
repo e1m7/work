@@ -1,12 +1,15 @@
 # Седов Иван Алексеевич
 
-Оглавление
-1. **[Подготовка к демо-экзамену теория](https://github.com/e1m7/work#%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BA-%D0%B4%D0%B5%D0%BC%D0%BE-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F)**
-2. **[Подготовка к демо-экзамену материалы](https://github.com/e1m7/work#%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BA-%D0%B4%D0%B5%D0%BC%D0%BE-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B)**
-3. **[Разработка мобильных приложений](https://github.com/e1m7/work#%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9)**
-4. **[Алгоритмы и языки программирования](https://github.com/e1m7/work#%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B-%D0%B8-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)**
-5. **[Технологии программного обеспечения](https://github.com/e1m7/work#%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-%D1%81%D0%BF%D0%B5%D1%86%D0%BA%D1%83%D1%80%D1%81)**
-6. **[Самообразование](https://e1m7.github.io/work/#%D1%81%D0%B0%D0%BC%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)**
+## Содержание
+
+| Номер     | Дисциплина      | Курс |
+| ----------- | ----------- | ----------- |
+| 1            | [Подготовка к демо-экзамену теория](https://github.com/e1m7/work#%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BA-%D0%B4%D0%B5%D0%BC%D0%BE-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F)            |     4        |
+| 2            |  [Подготовка к демо-экзамену материалы](https://github.com/e1m7/work#%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BA-%D0%B4%D0%B5%D0%BC%D0%BE-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B)           |   4          |
+| 3            |  [Разработка мобильных приложений](https://github.com/e1m7/work#%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9)           |    3         |
+| 4            |   [Алгоритмы и языки программирования](https://github.com/e1m7/work#%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B-%D0%B8-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)          |     3        |
+| 5            |   [Технологии программного обеспечения](https://github.com/e1m7/work#%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-%D1%81%D0%BF%D0%B5%D1%86%D0%BA%D1%83%D1%80%D1%81)          |     4        |
+| 6            |   [Самообразование](https://e1m7.github.io/work/#%D1%81%D0%B0%D0%BC%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)          |    1-4         |
 
 ## Подготовка к демо-экзамену теория
 
@@ -27,25 +30,26 @@
 |11 | Общий профессионализм   | 7,5        |
 | | Итого   | 77,2        |
 
-**Проектирование требований** 
+**Проектирование требований** [ссылка](https://nationalteam.worldskills.ru/skills/proektirovanie-use-case-diagrammy-opredelenie-funktsionalnykh-vozmozhnostey-sistemy/) 
 1. определение требований к информационной системе
-2. UseCase-диаграмма [ссылка](https://nationalteam.worldskills.ru/skills/proektirovanie-use-case-diagrammy-opredelenie-funktsionalnykh-vozmozhnostey-sistemy/)
+2. UseCase-диаграмма (pdf-версия)
 3. создание спецификации к прецедентам
+4. оформление требований файлом
 
-**Проектирование UML-диаграмм**
-1. диаграмма деятельности Activity [ссылка](https://youtu.be/0I9aIP5gKCg)
-2. диаграмма последовательностей Sequence [ссылка](https://youtu.be/0I9aIP5gKCg)
-3. диаграмма состояний State Machine [ссылка](https://youtu.be/0I9aIP5gKCg)
+**Проектирование UML-диаграмм** [ссылка](https://youtu.be/0I9aIP5gKCg)
+1. диаграмма деятельности Activity 
+2. диаграмма последовательностей Sequence
+3. диаграмма состояний State Machine
 
-**Проектирование ERD-диаграммы**
+**Проектирование ERD-диаграммы** [ссылка](https://youtu.be/uKImrwjOKTU)
 1. анализ предметной области
 2. анализ исходных файлов
-3. проектирование диаграммы сущность-связь [ссылка](https://youtu.be/uKImrwjOKTU)
+3. проектирование диаграммы сущность-связь
 
-**Разработка и импорт базы данных**
+**Разработка и импорт базы данных** [ссылка](https://nationalteam.worldskills.ru/skills/rabota-s-nestrukturirovannymi-dannymi-obrabotka-i-import-v-bazu-dannykh/)
 1. реализация базы данных в СУБД
 2. создание базы данных через скрипт
-3. приведение данных к виду, подходящему для импорта [ссылка](https://nationalteam.worldskills.ru/skills/rabota-s-nestrukturirovannymi-dannymi-obrabotka-i-import-v-bazu-dannykh/)
+3. приведение данных к виду, подходящему для импорта 
 4. импорт данных в базу данных
 
 **Создание объектов базы данных**
@@ -53,21 +57,27 @@
 2. проверка подключения
 
 **Разработка desktop-приложения**
-1. разработка приложения (авторизация, формы, сохранение)
-2. тестирование приложения
+1. разработка приложения: авторизация
+2. разработка приложения: формы
+3. разработка приложения: сохранение
+4. тестирование приложения
 
-**Разработка мобильного приложения**
-1. создание мобильного приложения [ссылка](https://www.youtube.com/playlist?list=PLH3y3SWteZd35qQ-d7qkBsj45JjQs1o6h)
-2. тестирование работы приложения
+**Разработка мобильного приложения** [ссылка](https://www.youtube.com/playlist?list=PLH3y3SWteZd35qQ-d7qkBsj45JjQs1o6h)
+1. создание мобильного приложения 
+2. подключение базы данных
+3. тестирование работы приложения
 
-**Создание инсталлятора**
-1. создание инсталлятора [ссылка](https://youtu.be/aYcYamTI6ys)
+**Создание инсталлятора** [ссылка](https://youtu.be/aYcYamTI6ys)
+1. создание инсталлятора 
+2. положить exe-файл в проект
 
-**Создание тестов**
-1. создание тестов [ссылка](https://youtu.be/p3EUhUjv2LM)
+**Создание тестов** [ссылка](https://youtu.be/p3EUhUjv2LM)
+1. создание тестов 
+2. описать тексты в руководстве
 
-**Создание руководства пользователя**
-1. ГОСТ [ссылка](http://it-gost.ru/content/view/94/51/)
+**Создание руководства пользователя** [ссылка](http://it-gost.ru/content/view/94/51/)
+1. оформление документации по ГОСТу
+2. внести в документ все сделанные пункты
 
 ## Подготовка к демо-экзамену материалы
 1. Все документы и примеры [ссылка](https://disk.yandex.ru/d/RmmT3tt9HGTFLA)
