@@ -110,7 +110,8 @@
 2 семестр
 1. [Язык Си-шарп](https://www.youtube.com/watch?v=GhQdlIFylQ8)
 2. [Windows Forms основы](https://www.youtube.com/playlist?list=PLTbLgUhfboqxxB14zFDaPHHO7nWZgoa95)
-3. [Windows Forms авторизация](https://www.youtube.com/playlist?list=PL0lO_mIqDDFWOMqSKFaLypANf1W7-o87q)
+3. [Получение сертификата](https://gb.ru/courses/87) разработка игры
+4. [Получение сертификата](https://gb.ru/courses/67) разработка приложения
 
 ## Технология программного обеспечения (спецкурс)
 
