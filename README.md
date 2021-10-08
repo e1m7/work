@@ -122,8 +122,8 @@
 | ----------- | ----------- | ----------- |
 | 1| Язык Си-шарп | [ссылка](https://www.youtube.com/watch?v=GhQdlIFylQ8)
 | 2| Windows Forms основы | [ссылка](https://www.youtube.com/playlist?list=PLTbLgUhfboqxxB14zFDaPHHO7nWZgoa95)
-| 3| Получение сертификата (разработа игры) | [ссылка](https://gb.ru/courses/87) 
-| 4| Получение сертификата (разработа приложения) | [ссылка](https://gb.ru/courses/67) 
+| 3| Получение сертификата #1 | [ссылка](https://gb.ru/courses/87) 
+| 4| Получение сертификата #2 | [ссылка](https://gb.ru/courses/67) 
 
 ## Технология программного обеспечения (спецкурс)
 
