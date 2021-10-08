@@ -88,15 +88,19 @@
 Мобильные приложения на сегодняшний день разрабатываются под две платформы: Android и iOS. Система Android имеет три официальных языка программирования: Kotlin, Java и Rust. Также под любую платформу можно писать на нативном JavaScript, который работает как в среде Android, так и в среде iOS. Мы начнем изучение с простого языка Blockly, а потом перейдем на нативный JavaScript. Это позволит изучить технологию за год и даст необходимые знания для создания приложений начального уровня. Мы будем изучать: работу с экранами, элементами управления, массивами, циклами, условиями, переменными, основы обработки графики на мобильных устройствах, основы работы с базами данных, файлами, смс-уведомлениями, QR-кодами, специальными элементами управления и проч.
 
 1 семестр
-1. [Основы алгоритмов](https://code.org/minecraft)
-2. [Основы языка Bloсkly](https://www.youtube.com/playlist?list=PLiXXnd7WHCGwZQk2EkTCUw1rmSNoUjlYQ)
-3. [Файлы для языка Bloсkly](https://disk.yandex.ru/d/_njx5i9AS3nyNQ)
+| Номер     | Название      | Ссылка |
+| ----------- | ----------- | ----------- |
+|1 | Основы алгоритмов      | [ссылка](https://code.org/minecraft)       |
+|2 | Основы языка Blockly      | [ссылка](https://www.youtube.com/playlist?list=PLiXXnd7WHCGwZQk2EkTCUw1rmSNoUjlYQ)       |
+|3 | Библиотеки      | [ссылка](https://disk.yandex.ru/d/_njx5i9AS3nyNQ)       |
 
 2 семестр
-1. [Основы HTML/CSS](https://stepik.org/course/52164)
-2. [Основы JavaScript](https://stepik.org/course/2223)
-3. [Основы Svelte](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO)
-4. [Основы Native Script](https://www.youtube.com/playlist?list=PLYxzS__5yYQnbduR0rpntEcXIhftdz15n)
+| Номер     | Название      | Ссылка |
+| ----------- | ----------- | ----------- |
+|1 | Основы HTML      | [ссылка](https://stepik.org/course/52164)       |
+|1 | Основы JavaScript      | [ссылка](https://stepik.org/course/2223)       |
+|1 | Основы Svelte      | [ссылка](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO)       |
+|1 | Основы NativeScript      | [ссылка](https://www.youtube.com/playlist?list=PLYxzS__5yYQnbduR0rpntEcXIhftdz15n)       |
 
 ## Алгоритмы и языки программирования
 
