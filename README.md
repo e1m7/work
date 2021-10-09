@@ -105,7 +105,7 @@
 
 | Номер | Технология     | Ссылка | Время | 
 | ----------- | ----------- | ----------- | ----------- |
-|0| Английский язык за 16 уроков | [ссылка](https://www.youtube.com/playlist?list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92) | 16 уроков
+|0| Английский язык за 16 уроков  | [ссылка](https://www.youtube.com/playlist?list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92) | 16 уроков
 |1| Язык гипертекстовой разметки HTML | [ссылка](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc)      | 17 уроков       |
 |2| Каскадные таблицы стилей CSS | [ссылка](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT)     | 53 урока       |
 |3| Язык программирования JavaScript | [ссылка](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)      | 46 уроков       |
