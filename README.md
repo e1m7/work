@@ -4,82 +4,31 @@
 
 | Номер     | Дисциплина      | Курс |
 | ----------- | ----------- | ----------- |
-| 1            | [Подготовка к демо-экзамену теория](https://e1m7.github.io/work/#%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BA-%D0%B4%D0%B5%D0%BC%D0%BE-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F)            |     4        |
-| 2            |  [Подготовка к демо-экзамену материалы](https://e1m7.github.io/work/#%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BA-%D0%B4%D0%B5%D0%BC%D0%BE-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B)           |   4          |
-| 3            |  [Разработка мобильных приложений](https://e1m7.github.io/work/#%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9)           |    3         |
-| 4            |   [Алгоритмы и языки программирования](https://e1m7.github.io/work/#%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B-%D0%B8-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)          |     3
-| 5            |   [Технологии программного обеспечения](https://e1m7.github.io/work/#%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-%D1%81%D0%BF%D0%B5%D1%86%D0%BA%D1%83%D1%80%D1%81)          |     4        |
-| 6            |   [Самообразование](https://e1m7.github.io/work/#%D1%81%D0%B0%D0%BC%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)          |    1-4         |
+| 1            | [Подготовка к демо-экзамену](https://e1m7.github.io/work/#%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BA-%D0%B4%D0%B5%D0%BC%D0%BE-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F)            |     4        |
+| 2            |  [Разработка мобильных приложений](https://e1m7.github.io/work/#%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9)           |    3         |
+| 3            |   [Алгоритмы и языки программирования](https://e1m7.github.io/work/#%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B-%D0%B8-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)          |     3
+| 4            |   [Технологии программного обеспечения](https://e1m7.github.io/work/#%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-%D1%81%D0%BF%D0%B5%D1%86%D0%BA%D1%83%D1%80%D1%81)          |     4        |
+| 5            |   [Самообразование](https://e1m7.github.io/work/#%D1%81%D0%B0%D0%BC%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)          |    1-4         |
 
-## Подготовка к демо-экзамену теория
+## Подготовка к демо-экзамену
 
 Демонстрационный экзамен WorldSkills "Программные решения для бизнеса" сдается студентами специальности "Информационные системы и программирование" в конце 4-го курса перед защитой дипломного проекта. Экзамен пишется 3,5-4,5 часа (зависит от кода) и включает в себя демонстрацию следующих умений: создание удаленной базы данных на сервере MySQL, создание desktop-приложения в среде Microsot Visual Studio 2019, создание мобильного приложения в программе Android Studio, разработка API приложения, создание unitTest модульных тестов программного продукта, создание useCase-диаграммы программного продукта, работа с системой контроля версий Git/Gogs, другое...
 
-| Номер     | Задание      | Баллы |
-| ----------- | ----------- | ----------- |
-|1 | Проектирование требований      | 5,4       |
-|2 | Проектирование UML-диаграммы   | 3        |
-|3 | Проектирование ERD-диаграммы   | 9,8        |
-|4 | Разработка и импорт базы данных   | 7,6        |
+| Номер     | Задание      | Баллы | Ссылка
+| ----------- | ----------- | ----------- |----------- |
+|1 | Проектирование требований      | 5,4       | [ссылка](https://nationalteam.worldskills.ru/skills/proektirovanie-use-case-diagrammy-opredelenie-funktsionalnykh-vozmozhnostey-sistemy/) |
+|2 | Проектирование UML-диаграммы   | 3        | [ссылка](https://youtu.be/0I9aIP5gKCg) |
+|3 | Проектирование ERD-диаграммы   | 9,8        | [ссылка](https://youtu.be/uKImrwjOKTU) |
+|4 | Разработка и импорт базы данных   | 7,6        | [ссылка](https://nationalteam.worldskills.ru/skills/rabota-s-nestrukturirovannymi-dannymi-obrabotka-i-import-v-bazu-dannykh/) |
 |5 | Создание объектов базы данных   | 4        |
 |6 | Разработка desktop-приложения   | 22,5        |
-|7 | Разработка мобильного приложения   | 7,8        |
-|8 | Создание инсталлятора   | 2        |
-|9 | Создание тестов   | 5        |
-|10 | Создание руководства   | 2,6        |
+|7 | Разработка мобильного приложения   | 7,8        | [ссылка](https://www.youtube.com/playlist?list=PLH3y3SWteZd35qQ-d7qkBsj45JjQs1o6h) |
+|8 | Создание инсталлятора   | 2        | [ссылка](https://youtu.be/aYcYamTI6ys) |
+|9 | Создание тестов   | 5        | [ссылка](https://youtu.be/p3EUhUjv2LM) |
+|10 | Создание руководства   | 2,6        | [ссылка](http://it-gost.ru/content/view/94/51/) |
 |11 | Общий профессионализм   | 7,5        |
 | | Итого   | 77,2        |
 
-**Проектирование требований** [ссылка](https://nationalteam.worldskills.ru/skills/proektirovanie-use-case-diagrammy-opredelenie-funktsionalnykh-vozmozhnostey-sistemy/) 
-1. определение требований к информационной системе
-2. UseCase-диаграмма (pdf-версия)
-3. создание спецификации к прецедентам
-4. оформление требований файлом
-
-**Проектирование UML-диаграмм** [ссылка](https://youtu.be/0I9aIP5gKCg)
-1. диаграмма деятельности Activity 
-2. диаграмма последовательностей Sequence
-3. диаграмма состояний State Machine
-
-**Проектирование ERD-диаграммы** [ссылка](https://youtu.be/uKImrwjOKTU)
-1. анализ предметной области
-2. анализ исходных файлов
-3. проектирование диаграммы сущность-связь
-
-**Разработка и импорт базы данных** [ссылка](https://nationalteam.worldskills.ru/skills/rabota-s-nestrukturirovannymi-dannymi-obrabotka-i-import-v-bazu-dannykh/)
-1. реализация базы данных в СУБД
-2. создание базы данных через скрипт
-3. приведение данных к виду, подходящему для импорта 
-4. импорт данных в базу данных
-
-**Создание объектов базы данных**
-1. подключение Workbench базы данных к проекту Visual Studio 2019
-2. проверка подключения
-
-**Разработка desktop-приложения**
-1. разработка приложения: авторизация
-2. разработка приложения: формы
-3. разработка приложения: сохранение
-4. тестирование приложения
-
-**Разработка мобильного приложения** [ссылка](https://www.youtube.com/playlist?list=PLH3y3SWteZd35qQ-d7qkBsj45JjQs1o6h)
-1. создание мобильного приложения 
-2. подключение базы данных
-3. тестирование работы приложения
-
-**Создание инсталлятора** [ссылка](https://youtu.be/aYcYamTI6ys)
-1. создание инсталлятора 
-2. положить exe-файл в проект
-
-**Создание тестов** [ссылка](https://youtu.be/p3EUhUjv2LM)
-1. создание тестов 
-2. описать тексты в руководстве
-
-**Создание руководства пользователя** [ссылка](http://it-gost.ru/content/view/94/51/)
-1. оформление документации по ГОСТу
-2. внести в документ все сделанные пункты
-
-## Подготовка к демо-экзамену материалы
 1. Все документы и примеры [ссылка](https://disk.yandex.ru/d/RmmT3tt9HGTFLA)
 2. Добавление, удаление, поиск в формах [ссылка](https://it-black.ru/rabota-s-bazoj-dannyh-v-ci_sharp/)
 
@@ -91,18 +40,18 @@
 
 | Номер     | Название      | Ссылка |
 | ----------- | ----------- | ----------- |
-|1 | Основы алгоритмов      | [ссылка](https://code.org/minecraft)       |
-|2 | Основы языка Blockly      | [ссылка](https://www.youtube.com/playlist?list=PLiXXnd7WHCGwZQk2EkTCUw1rmSNoUjlYQ)       |
-|3 | Библиотеки      | [ссылка](https://disk.yandex.ru/d/_njx5i9AS3nyNQ)       |
+|1 | Основы HTML      | [ссылка](https://stepik.org/course/52164)       |
+|2 | Основы JavaScript      | [ссылка](https://stepik.org/course/2223)       |
+|3 | Создание Todo-приложения на Vue, React, Angular и Svelte      | 
+|4 | Основы Native Script      | [ссылка](https://ru.svelte-native.technology/tutorial)       |
 
 2 семестр
 
 | Номер     | Название      | Ссылка |
 | ----------- | ----------- | ----------- |
-|1 | Основы HTML      | [ссылка](https://stepik.org/course/52164)       |
-|2 | Основы JavaScript      | [ссылка](https://stepik.org/course/2223)       |
-|3 | Основы Svelte      | [ссылка](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO)       |
-|4 | Основы NativeScript      | [ссылка](https://www.youtube.com/playlist?list=PLYxzS__5yYQnbduR0rpntEcXIhftdz15n)       |
+|1 | Основы языка Blockly      | [ссылка](https://www.youtube.com/playlist?list=PLiXXnd7WHCGwZQk2EkTCUw1rmSNoUjlYQ)       |
+|2 | Дополнительные компоненты языка Blockly      | [ссылка](https://disk.yandex.ru/d/_njx5i9AS3nyNQ)       |
+|3 | Финальное задание по курсу      |
 
 ## Алгоритмы и языки программирования
 
@@ -122,8 +71,8 @@
 | ----------- | ----------- | ----------- |
 | 1| Язык Си-шарп | [ссылка](https://www.youtube.com/watch?v=GhQdlIFylQ8)
 | 2| Windows Forms основы | [ссылка](https://www.youtube.com/playlist?list=PLTbLgUhfboqxxB14zFDaPHHO7nWZgoa95)
-| 3| Получение сертификата #1 | [ссылка](https://gb.ru/courses/87) 
-| 4| Получение сертификата #2 | [ссылка](https://gb.ru/courses/67) 
+| 3| Получение сертификата #2 | [ссылка](https://gb.ru/courses/87) 
+| 4| Получение сертификата #3 | [ссылка](https://gb.ru/courses/67) 
 
 ## Технология программного обеспечения (спецкурс)
 
