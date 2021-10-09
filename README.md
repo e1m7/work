@@ -100,9 +100,9 @@
 | Номер     | Название      | Ссылка |
 | ----------- | ----------- | ----------- |
 |1 | Основы HTML      | [ссылка](https://stepik.org/course/52164)       |
-|1 | Основы JavaScript      | [ссылка](https://stepik.org/course/2223)       |
-|1 | Основы Svelte      | [ссылка](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO)       |
-|1 | Основы NativeScript      | [ссылка](https://www.youtube.com/playlist?list=PLYxzS__5yYQnbduR0rpntEcXIhftdz15n)       |
+|2 | Основы JavaScript      | [ссылка](https://stepik.org/course/2223)       |
+|3 | Основы Svelte      | [ссылка](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO)       |
+|4 | Основы NativeScript      | [ссылка](https://www.youtube.com/playlist?list=PLYxzS__5yYQnbduR0rpntEcXIhftdz15n)       |
 
 ## Алгоритмы и языки программирования
 
@@ -155,6 +155,7 @@
 
 | Номер | Технология     | Ссылка | Время | 
 | ----------- | ----------- | ----------- | ----------- |
+|0| Английский язык за 16 уроков | [ссылка](https://www.youtube.com/playlist?list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92) | 16 уроков
 |1| Язык гипертекстовой разметки HTML | [ссылка](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc)      | 17 уроков       |
 |2| Каскадные таблицы стилей CSS | [ссылка](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT)     | 53 урока       |
 |3| Язык программирования JavaScript | [ссылка](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)      | 46 уроков       |
