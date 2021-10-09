@@ -42,7 +42,7 @@
 | ----------- | ----------- | ----------- |
 |1 | Основы HTML      | [ссылка](https://stepik.org/course/52164)       |
 |2 | Основы JavaScript      | [ссылка](https://stepik.org/course/2223)       |
-|3 | Создание Todo-приложения на Vue, React, Angular и Svelte      | 
+|3 | Создание Todo-приложения      | [ссылка](https://youtu.be/iHI-9ys1i3M)
 |4 | Основы Native Script      | [ссылка](https://ru.svelte-native.technology/tutorial)       |
 
 2 семестр
@@ -50,7 +50,7 @@
 | Номер     | Название      | Ссылка |
 | ----------- | ----------- | ----------- |
 |1 | Основы языка Blockly      | [ссылка](https://www.youtube.com/playlist?list=PLiXXnd7WHCGwZQk2EkTCUw1rmSNoUjlYQ)       |
-|2 | Дополнительные компоненты языка Blockly      | [ссылка](https://disk.yandex.ru/d/_njx5i9AS3nyNQ)       |
+|2 | Дополнительные компоненты      | [ссылка](https://disk.yandex.ru/d/_njx5i9AS3nyNQ)       |
 |3 | Финальное задание по курсу      |
 
 ## Алгоритмы и языки программирования
@@ -73,6 +73,7 @@
 | 2| Windows Forms основы | [ссылка](https://www.youtube.com/playlist?list=PLTbLgUhfboqxxB14zFDaPHHO7nWZgoa95)
 | 3| Получение сертификата #2 | [ссылка](https://gb.ru/courses/87) 
 | 4| Получение сертификата #3 | [ссылка](https://gb.ru/courses/67) 
+| 5| Финальное задание по курсу| 
 
 ## Технология программного обеспечения (спецкурс)
 
