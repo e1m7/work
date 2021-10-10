@@ -45,7 +45,7 @@
 |3 | Todo-приложение React      | [ссылка](https://codesandbox.io/s/todo-react-yyueo) |
 |4 | Todo-приложение Vue        | [ссылка](https://codesandbox.io/s/todo-vue-i590b) |
 |5 | Todo-приложение Angular        | [ссылка](https://codesandbox.io/s/todo-angular-jeggr) |
-|6 | Todo-приложение Svelte        |  |
+|6 | Todo-приложение Svelte        | [ссылка](https://codesandbox.io/s/todo-svelte-evcwo) |
 |7 | Основы Native Script      | [ссылка](https://ru.svelte-native.technology/tutorial)       |
 
 2 семестр
