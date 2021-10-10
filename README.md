@@ -42,8 +42,11 @@
 | ----------- | ----------- | ----------- |
 |1 | Основы HTML/CSS      | [ссылка](https://stepik.org/course/52164)       |
 |2 | Основы JavaScript      | [ссылка](https://stepik.org/course/2223)       |
-|3 | Todo-приложение React      | [ссылка](https://codesandbox.io/s/todo-react-yyueo)
-|4 | Основы Native Script      | [ссылка](https://ru.svelte-native.technology/tutorial)       |
+|3 | Todo-приложение React      | [ссылка](https://codesandbox.io/s/todo-react-yyueo) |
+|4 | Todo-приложение Vue        | [ссылка](https://codesandbox.io/s/todo-vue-i590b) |
+|5 | Todo-приложение Angular        |  |
+|6 | Todo-приложение Svelte        |  |
+|7 | Основы Native Script      | [ссылка](https://ru.svelte-native.technology/tutorial)       |
 
 2 семестр
 
