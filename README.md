@@ -1,4 +1,4 @@
-# e1m7.github.io/work
+![](https://github.com/e1m7/work/blob/main/logo.png)
 
 ## Содержание
 
