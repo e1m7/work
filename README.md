@@ -72,7 +72,7 @@
 |9  | Основы языка ассемблер 6| [ссылка](https://slides.com/ivansedov/assembler8_06)
 |10 | Основы языка ассемблер 7| [ссылка](https://slides.com/ivansedov/assembler8_07)
 |11 | Основы языка ассемблер 8| [ссылка](https://slides.com/ivansedov/assembler8_08)
-| 12| Основы Ruby 1 (теория) | [ссылка](https://slides.com/ivansedov/ruby)
+|12| Основы Ruby 1 (теория) | [ссылка](https://slides.com/ivansedov/ruby)
 |12 | Основы Ruby 2 (практика) | [ссылка](https://disk.yandex.ru/d/SVXjxM8-cai60A)
 |13 | Основы Ruby 3 (объекты) | [ссылка](https://disk.yandex.ru/d/_mj1sKL3D4DKYQ)
 |14 | Получение сертификата #1| [ссылка](https://stepik.org/course/87996)
