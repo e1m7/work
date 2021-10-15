@@ -1,4 +1,4 @@
-![](https://i.ibb.co/ypY1gMr/2021-10-13-22-38-30.png)
+![](https://i.ibb.co/tYQwZQL/Leadership-1584-x-396-px.jpg)
 
 ## Содержание
 
