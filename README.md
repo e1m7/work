@@ -81,7 +81,7 @@
 
 | Номер     | Название      | Ссылка |
 | ----------- | ----------- | ----------- |
-| 1| Язык Си-шарп | [ссылка](https://www.youtube.com/watch?v=GhQdlIFylQ8)
+| 1| Язык Си-шарп | [ссылка](https://slides.com/ivansedov/csharp)
 | 2| Windows Forms основы | [ссылка](https://www.youtube.com/playlist?list=PLTbLgUhfboqxxB14zFDaPHHO7nWZgoa95)
 | 3| Получение сертификата #2 | [ссылка](https://gb.ru/courses/87) 
 | 4| Получение сертификата #3 | [ссылка](https://gb.ru/courses/67) 
