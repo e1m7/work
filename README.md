@@ -111,5 +111,14 @@
 |16| Язык LISP | [ссылка](https://youtu.be/ymSq4wHrqyU)| 1 час |
 |17| Язык Haskell | [ссылка](https://youtu.be/02_H3LjqMr8)| 1 час |
 
+## Самобразование +
+
+| Номер | Технология     | Ссылка | Время | 
+| ----------- | ----------- | ----------- | ----------- |
+| 1 | Язык программирования Lua | [ссылка](https://slides.com/ivansedov/lua) | 1 час
+| 2 | Фреймворк Love2d | [ссылка](https://youtu.be/wttKHL90Ank) | 1 час
+| 3 | Курс разрабочика игр CS50 | [ссылка](https://www.youtube.com/playlist?list=PLWKjhJtqVAbluXJKKbCIb4xd7fcRkpzoz) | 12 уроков
+
+
 Удачи.
 
