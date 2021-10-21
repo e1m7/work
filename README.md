@@ -115,7 +115,7 @@
 
 | Номер | Технология     | Ссылка | Время | 
 | ----------- | ----------- | ----------- | ----------- |
-| 1 | Курс разрабочика игр CS50 | [ссылка](https://www.youtube.com/playlist?list=PLWKjhJtqVAbluXJKKbCIb4xd7fcRkpzoz) | 12 уроков
+| 1 | Курс разработчика игр CS50 | [ссылка](https://www.youtube.com/playlist?list=PLWKjhJtqVAbluXJKKbCIb4xd7fcRkpzoz) | 12 уроков
 | 2 | Курс веб-программирование CS50 | [ссылка](https://www.youtube.com/playlist?list=PLnzclEQVIaQ54ND1eteyEXQ4rujQYRQAS) | 17 уроков
 | 3 | Курс мобильное программирование CS50 | [ссылка](https://www.youtube.com/playlist?list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR) | 14 уроков
 | 4 | Курс основы программирования CS50 | [ссылка](https://www.youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5) | 23 урока
