@@ -1,6 +1,4 @@
-# t.ly/LENA
-
-![](https://i.ibb.co/tYQwZQL/Leadership-1584-x-396-px.jpg)
+![](https://i.ibb.co/MCMcvym/Focus-on-Small-Steps-1584-x-396-px.jpg)
 
 ## Содержание
 
