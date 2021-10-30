@@ -2,14 +2,12 @@
 
 ## Содержание
 
-1. [Подготовка к демо-экзамену](https://e1m7.github.io/work/#%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BA-%D0%B4%D0%B5%D0%BC%D0%BE-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83)
-2. [Разработка мобильных приложений](https://e1m7.github.io/work/#%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9)
-3. [Алгоритмы и языки программирования](https://e1m7.github.io/work/#%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B-%D0%B8-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
-4. [Самообразование](https://e1m7.github.io/work/#%D1%81%D0%B0%D0%BC%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
+1. WorldSkills экзамен
+2. Разработка мобильных приложений
+3. Алгоритмы и языки программирования
+4. Дополнительные [презентации](https://slides.com/ivansedov)
 
-[![](https://img.shields.io/badge/slides.com-ivansedov-brightgreen)](https://slides.com/ivansedov)
-
-## Подготовка к демо-экзамену
+## WorldSkills экзамен
 
 Демонстрационный экзамен WorldSkills "Программные решения для бизнеса" сдается студентами специальности "Информационные системы и программирование" в конце 4-го курса перед защитой дипломного проекта. Экзамен пишется 3,5-4,5 часа (зависит от кода) и включает в себя демонстрацию следующих умений: создание удаленной базы данных на сервере MySQL, создание desktop-приложения в среде Microsot Visual Studio 2019, создание мобильного приложения в программе Android Studio, разработка API приложения, создание unitTest модульных тестов программного продукта, создание useCase-диаграммы программного продукта, работа с системой контроля версий Git/Gogs, другое...
 
@@ -88,40 +86,6 @@
 | 3| Получение сертификата #2 | [ссылка](https://gb.ru/courses/87) 
 | 4| Получение сертификата #3 | [ссылка](https://gb.ru/courses/67) 
 | 5| Финальное задание по курсу| 
-
-## Самообразование
-
-Требования к программисту меняются каждый год. Одни языки отмирают, другие приходят им на смену. Некоторые языки и технологии "держаться" годами и их знание является обязательным для молодого специалиста. С введением демо-экзамена WorldSkills на языке C# для выпускника профессионального колледжа вопрос "что учить" больше не актуален: он должен учить связку C# + Windows Form + SQLServer и его задача за два года освоить написание простейшей desktop-программы по обработке базы данных. Но не будем забывать о том, что выпускник колледжа может попасть на работу в фирму, которая занимается программированием и ему надо будет показать умения во всех остальных областях информационых технологий. Вот краткий список бесплатных курсов по тем технологиям, которые, по-моему мнению, будут актуальны для молодого программиста еще долгое время. Рекомендую вам изучить их, чтобы найти работу программистом и получать реальные деньги.
-
-| Номер | Технология     | Ссылка | Время | 
-| ----------- | ----------- | ----------- | ----------- |
-|1| Английский язык за 16 уроков  | [ссылка](https://www.youtube.com/playlist?list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92) | 16 уроков
-|2| Язык гипертекстовой разметки HTML | [ссылка](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc)      | 17 уроков       |
-|3| Каскадные таблицы стилей CSS | [ссылка](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT)     | 53 урока       |
-|4| Язык программирования JavaScript | [ссылка](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)      | 46 уроков       |
-|5| Язык программирования Ruby | [ссылка](https://www.youtube.com/watch?v=t_ispmWmdjY)     | 4 часа       |
-|6| Фреймворк Ruby on Rails | [ссылка](https://www.youtube.com/watch?v=fmyvWz5TUWg)     | 4 часа       |
-|7| Язык программирования Python | [ссылка](https://www.youtube.com/watch?v=rfscVS0vtbw)     |  4 часа      |
-|8| Фреймворк Flask | [ссылка](https://www.youtube.com/watch?v=Z1RJmh_OqeA)      |  1 час      |
-|9| Базы данных MySQL | [ссылка](https://www.youtube.com/watch?v=ER8oKX5myE0)  |  2 часа      |
-|10| Фреймворк React |[ссылка](https://www.youtube.com/watch?v=DLX62G4lc44)      |   5 часов     |
-|11| Фреймворк Angular |[ссылка](https://www.youtube.com/watch?v=2OHbjep_WjQ)     | 6 часов       |
-|12| Фреймворк Vue | [ссылка](https://www.youtube.com/watch?v=4deVCNJq3qc)      | 3 часа       |
-|13| Фреймворк Svelte | [ссылка](https://youtu.be/vhGiGqZ78Rs)  | 1 час  |
-|14| Smart-контракты и технология Blockchain | [ссылка](https://www.youtube.com/watch?v=M576WGiDBdQ) | 16 часов |
-|15| Технология Machine Learning | [ссылка](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) | 10 уроков |
-|16| Язык LISP | [ссылка](https://youtu.be/ymSq4wHrqyU)| 1 час |
-|17| Язык Haskell | [ссылка](https://youtu.be/02_H3LjqMr8)| 1 час |
-
-## Гарвард
-
-| Номер | Технология     | Ссылка | Время | 
-| ----------- | ----------- | ----------- | ----------- |
-| 1 | Курс разработчика игр CS50 | [ссылка](https://www.youtube.com/playlist?list=PLWKjhJtqVAbluXJKKbCIb4xd7fcRkpzoz) | 12 уроков
-| 2 | Курс веб-программирование CS50 | [ссылка](https://www.youtube.com/playlist?list=PLnzclEQVIaQ54ND1eteyEXQ4rujQYRQAS) | 17 уроков
-| 3 | Курс мобильное программирование CS50 | [ссылка](https://www.youtube.com/playlist?list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR) | 14 уроков
-| 4 | Курс основы программирования CS50 | [ссылка](https://www.youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5) | 23 урока
-| 5 | Курс искуственный интеллект CS50 | [ссылка](https://www.youtube.com/playlist?list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv) | 6 уроков
 
 Удачи.
 
