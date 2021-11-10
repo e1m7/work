@@ -64,18 +64,10 @@
 |1  | Little Man Computer 1 | [ссылка](https://slides.com/ivansedov/little_man_computer_01)
 |2  | Little Man Computer 2 | [ссылка](https://slides.com/ivansedov/little_man_computer_02)
 |3  | Little Man Computer 3 |[ссылка](https://slides.com/ivansedov/little_man_computer_03)
-|4  | Основы языка ассемблер 1| [ссылка](https://slides.com/ivansedov/assembler8_01)
-|5  | Основы языка ассемблер 2| [ссылка](https://slides.com/ivansedov/assembler8_02)
-|6  | Основы языка ассемблер 3| [ссылка](https://slides.com/ivansedov/assembler8_03)
-|7  | Основы языка ассемблер 4| [ссылка](https://slides.com/ivansedov/assembler8_04)
-|8  | Основы языка ассемблер 5| [ссылка](https://slides.com/ivansedov/assembler8_05)
-|9  | Основы языка ассемблер 6| [ссылка](https://slides.com/ivansedov/assembler8_06)
-|10 | Основы языка ассемблер 7| [ссылка](https://slides.com/ivansedov/assembler8_07)
-|11 | Основы языка ассемблер 8| [ссылка](https://slides.com/ivansedov/assembler8_08)
-|12| Основы Ruby 1 (теория) | [ссылка](https://slides.com/ivansedov/ruby)
-|12 | Основы Ruby 2 (практика) | [ссылка](https://disk.yandex.ru/d/SVXjxM8-cai60A)
-|13 | Основы Ruby 3 (объекты) | [ссылка](https://disk.yandex.ru/d/_mj1sKL3D4DKYQ)
-|14 | Получение сертификата #1| [ссылка](https://stepik.org/course/87996)
+|4| Основы Ruby 1 (теория) | [ссылка](https://slides.com/ivansedov/ruby)
+|5 | Основы Ruby 2 (практика) | [ссылка](https://disk.yandex.ru/d/SVXjxM8-cai60A)
+|6 | Основы Ruby 3 (объекты) | [ссылка](https://disk.yandex.ru/d/_mj1sKL3D4DKYQ)
+|7 | Получение сертификата #1| [ссылка](https://stepik.org/course/87996)
 
 2 семестр
 
