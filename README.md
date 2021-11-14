@@ -37,20 +37,20 @@
 
 | Номер     | Название      | Ссылка |
 | ----------- | ----------- | ----------- |
+|1 | Основы языка Blockly      | [ссылка](https://www.youtube.com/playlist?list=PLiXXnd7WHCGwZQk2EkTCUw1rmSNoUjlYQ)       |
+|2 | Дополнительные компоненты      | [ссылка](https://disk.yandex.ru/d/_njx5i9AS3nyNQ)       |
+|3 | Финальное задание по курсу      |
+
+2 семестр
+
+| Номер     | Название      | Ссылка |
+| ----------- | ----------- | ----------- |
 |1 | Основы HTML/CSS      | [ссылка](https://stepik.org/course/52164)       |
 |2 | Основы JavaScript      | [ссылка](https://stepik.org/course/2223)       |
 |3 | Todo-приложение React      | [ссылка](https://codesandbox.io/s/todo-react-yyueo) |
 |4 | Todo-приложение Vue        | [ссылка](https://codesandbox.io/s/todo-vue-i590b) |
 |5 | Todo-приложение Angular        | [ссылка](https://codesandbox.io/s/todo-angular-jeggr) |
 |6 | Todo-приложение Svelte        | [ссылка](https://codesandbox.io/s/todo-svelte-evcwo) |
-
-2 семестр
-
-| Номер     | Название      | Ссылка |
-| ----------- | ----------- | ----------- |
-|1 | Основы языка Blockly      | [ссылка](https://www.youtube.com/playlist?list=PLiXXnd7WHCGwZQk2EkTCUw1rmSNoUjlYQ)       |
-|2 | Дополнительные компоненты      | [ссылка](https://disk.yandex.ru/d/_njx5i9AS3nyNQ)       |
-|3 | Финальное задание по курсу      |
 
 ## Алгоритмы и языки программирования
 
