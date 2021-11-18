@@ -6,6 +6,7 @@
 2. Разработка мобильных приложений
 3. Алгоритмы и языки программирования
 4. Дополнительные [презентации](https://slides.com/ivansedov)
+5. Дополнительные [лекции](https://disk.yandex.ru/d/DGhMJddbb3fuVg)
 
 [![](https://www.codewars.com/users/lavagod/badges/large?theme=light)](https://www.codewars.com)
 
