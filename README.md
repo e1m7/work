@@ -66,10 +66,7 @@
 |1  | Little Man Computer 1 | [ссылка](https://slides.com/ivansedov/little_man_computer_01)
 |2  | Little Man Computer 2 | [ссылка](https://slides.com/ivansedov/little_man_computer_02)
 |3  | Little Man Computer 3 |[ссылка](https://slides.com/ivansedov/little_man_computer_03)
-|4| Основы Ruby 1 (теория) | [ссылка](https://slides.com/ivansedov/ruby)
-|5 | Основы Ruby 2 (практика) | [ссылка](https://disk.yandex.ru/d/SVXjxM8-cai60A)
-|6 | Основы Ruby 3 (объекты) | [ссылка](https://disk.yandex.ru/d/_mj1sKL3D4DKYQ)
-|7 | Получение сертификата #1| [ссылка](https://stepik.org/course/87996)
+|4| Основы Ruby или Lua | [ссылка](https://slides.com/ivansedov/ruby) или [ссылка](https://slides.com/ivansedov/lua)
 
 2 семестр
 
