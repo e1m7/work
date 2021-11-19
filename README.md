@@ -2,11 +2,13 @@
 
 ## Содержание
 
-1. WorldSkills экзамен
-2. Разработка мобильных приложений
-3. Алгоритмы и языки программирования
-4. Дополнительные [презентации](https://slides.com/ivansedov)
-5. Дополнительные [лекции](https://disk.yandex.ru/d/DGhMJddbb3fuVg)
+| Номер     | Название      | Курс
+| ----------- | ----------- | ----------- |
+|1 | WorldSkills экзамен | 4
+|2 | Разработка мобильных приложений | 3
+|3 | Алгоритмы и языки программирования | 2
+|4 | Дополнительные [презентации](https://slides.com/ivansedov) | 1-4
+|5 | Дополнительные [лекции](https://disk.yandex.ru/d/DGhMJddbb3fuVg) | 1-4
 
 [![](https://www.codewars.com/users/lavagod/badges/large?theme=light)](https://www.codewars.com)
 
