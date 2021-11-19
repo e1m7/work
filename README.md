@@ -47,7 +47,7 @@
 
 | Номер     | Название      | Ссылка |
 | ----------- | ----------- | ----------- |
-|1 | Основы HTML/CSS      | [ссылка](https://stepik.org/course/52164)       |
+|1 | Основы HTML и CSS      | [ссылка](https://stepik.org/course/52164)       |
 |2 | Основы JavaScript      | [ссылка](https://stepik.org/course/2223)       |
 |3 | Todo-приложение React      | [ссылка](https://codesandbox.io/s/todo-react-yyueo) |
 |4 | Todo-приложение Vue        | [ссылка](https://codesandbox.io/s/todo-vue-i590b) |
@@ -66,13 +66,13 @@
 |1  | Little Man Computer 1 | [ссылка](https://slides.com/ivansedov/little_man_computer_01)
 |2  | Little Man Computer 2 | [ссылка](https://slides.com/ivansedov/little_man_computer_02)
 |3  | Little Man Computer 3 |[ссылка](https://slides.com/ivansedov/little_man_computer_03)
-|4| Основы Ruby или Lua | [ссылка](https://slides.com/ivansedov/ruby) или [ссылка](https://slides.com/ivansedov/lua)
+|4| Основы языка Lua | [ссылка](https://slides.com/ivansedov/lua)
 
 2 семестр
 
 | Номер     | Название      | Ссылка |
 | ----------- | ----------- | ----------- |
-| 1| Язык Си-шарп | [ссылка](https://slides.com/ivansedov/csharp)
+| 1| Основы языка Си-шарп | [ссылка](https://slides.com/ivansedov/csharp)
 | 2| Windows Forms основы | [ссылка](https://www.youtube.com/playlist?list=PLTbLgUhfboqxxB14zFDaPHHO7nWZgoa95)
 | 3| Получение сертификата #1 | [ссылка](https://gb.ru/courses/87) 
 | 4| Получение сертификата #2 | [ссылка](https://gb.ru/courses/67) 
