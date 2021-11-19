@@ -81,5 +81,8 @@
 | 5| Получение сертификата #3 | [ссылка](https://gb.ru/courses/72)
 | 6| Финальное задание по курсу| 
 
-Удачи.
+## Рекомендованные каналы
+
+1. [https://www.youtube.com/c/Freecodecamp](https://www.youtube.com/c/Freecodecamp)
+2. [https://www.youtube.com/c/TheNetNinja](https://www.youtube.com/c/TheNetNinja)
 
