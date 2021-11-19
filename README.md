@@ -9,6 +9,7 @@
 |3 | Алгоритмы и языки программирования | 2
 |4 | Дополнительные [презентации](https://slides.com/ivansedov) | 1-4
 |5 | Дополнительные [лекции](https://disk.yandex.ru/d/DGhMJddbb3fuVg) | 1-4
+|6 | Рекомендованные каналы | 1-4
 
 [![](https://www.codewars.com/users/lavagod/badges/large?theme=light)](https://www.codewars.com)
 
