@@ -76,7 +76,8 @@
 | 2| Windows Forms основы | [ссылка](https://www.youtube.com/playlist?list=PLTbLgUhfboqxxB14zFDaPHHO7nWZgoa95)
 | 3| Получение сертификата #1 | [ссылка](https://gb.ru/courses/87) 
 | 4| Получение сертификата #2 | [ссылка](https://gb.ru/courses/67) 
-| 5| Финальное задание по курсу| 
+| 5| Получение сертификата #3 | [ссылка](https://gb.ru/courses/72)
+| 6| Финальное задание по курсу| 
 
 Удачи.
 
