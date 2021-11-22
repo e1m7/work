@@ -86,5 +86,4 @@
 
 1. [https://www.youtube.com/c/Freecodecamp](https://www.youtube.com/c/Freecodecamp)
 2. [https://www.youtube.com/c/TheNetNinja](https://www.youtube.com/c/TheNetNinja)
-3. [Английский за 16 часов](https://www.youtube.com/playlist?list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92)
-
+3. [https://www.youtube.com/playlist?list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92](https://www.youtube.com/playlist?list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92)
