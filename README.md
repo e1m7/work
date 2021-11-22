@@ -10,6 +10,7 @@
 |4 | Дополнительные [презентации](https://slides.com/ivansedov) | 1-4
 |5 | Дополнительные [лекции](https://disk.yandex.ru/d/DGhMJddbb3fuVg) | 1-4
 |6 | Рекомендованные каналы | 1-4
+|7 | Рекомендованные проекты | 1-4
 
 [![](https://www.codewars.com/users/lavagod/badges/large?theme=light)](https://www.codewars.com)
 
@@ -88,3 +89,8 @@
 2. [https://www.youtube.com/c/TheNetNinja](https://www.youtube.com/c/TheNetNinja)
 3. [Английский язык](https://www.youtube.com/playlist?list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92) (полная версия)
 4. [Английский язык](https://www.youtube.com/playlist?list=PL66DIGaegedqVBwaauzKVk7DNqIFaXrN_) (сокращенная версия)
+
+## Рекомендованные проекты
+
+1. [https://replit.com/@sedovsedov1/basic#main.py](https://replit.com/@sedovsedov1/basic#main.py)
+2. [https://replit.com/@sedovsedov1/virtualmachine#main.py](https://replit.com/@sedovsedov1/virtualmachine#main.py)
