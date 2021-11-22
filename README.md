@@ -86,4 +86,5 @@
 
 1. [https://www.youtube.com/c/Freecodecamp](https://www.youtube.com/c/Freecodecamp)
 2. [https://www.youtube.com/c/TheNetNinja](https://www.youtube.com/c/TheNetNinja)
-3. [https://www.youtube.com/playlist?list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92](https://www.youtube.com/playlist?list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92)
+3. [Английский язык](https://www.youtube.com/playlist?list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92) (полная версия)
+4. [Английский язык](https://www.youtube.com/playlist?list=PL66DIGaegedqVBwaauzKVk7DNqIFaXrN_) (сокращенная версия)
