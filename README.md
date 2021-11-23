@@ -92,5 +92,5 @@
 
 ## Рекомендованные проекты
 
-1. Простейший компилятор [текст](http://slides.com/ivansedov/compilers-01) + [код](https://replit.com/@sedovsedov1/basic#main.py)
+1. Простейший компилятор [текст #1](http://slides.com/ivansedov/compilers-01), [текст #2](http://slides.com/ivansedov/compilers-02), [текст #3](http://slides.com/ivansedov/compilers-03), [текст #4](http://slides.com/ivansedov/compilers-04) + [код](https://replit.com/@sedovsedov1/basic#main.py)
 2. Простейшая виртуальная машина [текст](http://slides.com/ivansedov/virtual_machine) + [код](https://replit.com/@sedovsedov1/virtualmachine#main.py)
