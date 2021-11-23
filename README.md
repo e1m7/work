@@ -92,5 +92,5 @@
 
 ## Рекомендованные проекты
 
-1. [Компилятор](http://slides.com/ivansedov/compilers-01) + [исходный код](https://replit.com/@sedovsedov1/basic#main.py)
-2. [Виртуальная машина](http://slides.com/ivansedov/virtual_machine) + [исходный код](https://replit.com/@sedovsedov1/virtualmachine#main.py)
+1. Простейший компилятор [текст](http://slides.com/ivansedov/compilers-01) + [код](https://replit.com/@sedovsedov1/basic#main.py)
+2. Простейшая виртуальная машина [текст](http://slides.com/ivansedov/virtual_machine) + [код](https://replit.com/@sedovsedov1/virtualmachine#main.py)
