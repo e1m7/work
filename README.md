@@ -1,7 +1,5 @@
 ![](https://i.ibb.co/MCMcvym/Focus-on-Small-Steps-1584-x-396-px.jpg)
 
-## Содержание
-
 | Номер     | Название      | Курс
 | ----------- | ----------- | ----------- |
 |1 | WorldSkills экзамен | 4
@@ -12,9 +10,7 @@
 |6 | Рекомендованные каналы | 1-4
 |7 | Рекомендованные проекты | 1-4
 
-[![](https://www.codewars.com/users/lavagod/badges/large?theme=light)](https://www.codewars.com)
-
-## WorldSkills экзамен
+![](https://i.ibb.co/kXM3Sz3/Untitled.jpg)
 
 Демонстрационный экзамен WorldSkills "Программные решения для бизнеса" сдается студентами специальности "Информационные системы и программирование" в конце 4-го курса перед защитой дипломного проекта. Экзамен пишется 3,5-4,5 часа (зависит от кода) и включает в себя демонстрацию следующих умений: создание удаленной базы данных на сервере MySQL, создание desktop-приложения в среде Microsot Visual Studio 2019, создание мобильного приложения в программе Android Studio, разработка API приложения, создание unitTest модульных тестов программного продукта, создание useCase-диаграммы программного продукта, работа с системой контроля версий Git/Gogs, другое...
 
@@ -36,7 +32,7 @@
 1. Все документы и примеры [ссылка](https://disk.yandex.ru/d/RmmT3tt9HGTFLA)
 2. Добавление, удаление, поиск в формах [ссылка](https://it-black.ru/rabota-s-bazoj-dannyh-v-ci_sharp/)
 
-## Разработка мобильных приложений
+![](https://i.ibb.co/y8XZ7tb/Untitled-1.jpg)
 
 Мобильные приложения на сегодняшний день разрабатываются под две платформы: Android и iOS. Система Android имеет три официальных языка программирования: Kotlin, Java и Rust. Также под любую платформу можно писать на нативном JavaScript, который работает как в среде Android, так и в среде iOS. Мы начнем изучение с простого языка Blockly, а потом перейдем на нативный JavaScript. Это позволит изучить технологию за год и даст необходимые знания для создания приложений начального уровня. Мы будем изучать: работу с экранами, элементами управления, массивами, циклами, условиями, переменными, основы обработки графики на мобильных устройствах, основы работы с базами данных, файлами, смс-уведомлениями, QR-кодами, специальными элементами управления и проч.
 
@@ -59,7 +55,7 @@
 |6 | Todo-приложение Svelte        | [ссылка](https://codesandbox.io/s/todo-svelte-evcwo) |
 |7 | Финальное задание по курсу      |
 
-## Алгоритмы и языки программирования
+![](https://i.ibb.co/y6K6p4d/Untitled-2.jpg)
 
 Изучание языка программирования это "букварь" для любого программиста. От выбора первого языка зависит очень много, так как он в любом случае заложит основы программирования в целом и наметит путь развития молодого человека как программиста в будущем. У нас связаны руки и мы должны подойти к концу 4-го курса, зная язык C#, чтобы написать демо-экзамен. Поэтому принято решение изучать в качестве начальных языков программирования два: 1) Lua (1 семестр), 2) C# (2 семестр). Язык Lua даст легкость, уверенность, понимание объектно-ориентированных технологий программирования. Язык C# ляжет на готовый фундамент и подготовит молодого специалиста к демо-экзамену. Этот путь не идеален, но является компромиссом между требованиями времени и министерства образования.
 
@@ -70,7 +66,8 @@
 |1  | Little Man Computer 1 | [ссылка](https://slides.com/ivansedov/little_man_computer_01)
 |2  | Little Man Computer 2 | [ссылка](https://slides.com/ivansedov/little_man_computer_02)
 |3  | Little Man Computer 3 |[ссылка](https://slides.com/ivansedov/little_man_computer_03)
-|4| Основы языка Lua | [ссылка](https://slides.com/ivansedov/lua)
+|4  | Основы языка Lua | [ссылка](https://slides.com/ivansedov/lua)
+|5  | Практика по языку Lua | [ссылка](https://exercism.org)
 
 2 семестр
 
@@ -83,14 +80,14 @@
 | 5| Получение сертификата #3 | [ссылка](https://gb.ru/courses/72)
 | 6| Финальное задание по курсу| 
 
-## Рекомендованные каналы
+![](https://i.ibb.co/ssGKwZ9/Untitled-3.jpg)
 
 1. [https://www.youtube.com/c/Freecodecamp](https://www.youtube.com/c/Freecodecamp)
 2. [https://www.youtube.com/c/TheNetNinja](https://www.youtube.com/c/TheNetNinja)
 3. [Английский язык](https://www.youtube.com/playlist?list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92) (полная версия)
 4. [Английский язык](https://www.youtube.com/playlist?list=PL66DIGaegedqVBwaauzKVk7DNqIFaXrN_) (сокращенная версия)
 
-## Рекомендованные проекты
+![](https://i.ibb.co/vJw8MdP/Untitled-4.jpg)
 
 1. Компилятор [текст #1](http://slides.com/ivansedov/compilers-01), [текст #2](http://slides.com/ivansedov/compilers-02), [текст #3](http://slides.com/ivansedov/compilers-03), [текст #4](http://slides.com/ivansedov/compilers-04) + [код](https://replit.com/@sedovsedov1/basic#main.py)
 2. Виртуальная машина [текст](http://slides.com/ivansedov/virtual_machine) + [код](https://replit.com/@sedovsedov1/virtualmachine#main.py)
