@@ -86,5 +86,5 @@
 2. Канал с видео-уроками [https://www.youtube.com/c/TheNetNinja](https://www.youtube.com/c/TheNetNinja)
 3. Изучение английского языка [полная версия](https://www.youtube.com/playlist?list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92)
 4. Изучение английского языка [сокращенная версия](https://www.youtube.com/playlist?list=PL66DIGaegedqVBwaauzKVk7DNqIFaXrN_)
-5. Задачи для программиста https://exercism.org/profiles/e1m7
-6. Среда выполнения кода https://replit.com/@sedovsedov1
+5. Задачи для программиста [ссылка](https://exercism.org/profiles/e1m7)
+6. Среда выполнения кода [ссылка](https://replit.com/@sedovsedov1)
