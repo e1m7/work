@@ -80,19 +80,11 @@
 | 5| Получение сертификата #3 | [ссылка](https://gb.ru/courses/72)
 | 6| Финальное задание по курсу| 
 
-![](https://i.ibb.co/ssGKwZ9/Untitled-3.jpg)
+# 111
 
-1. [https://www.youtube.com/c/Freecodecamp](https://www.youtube.com/c/Freecodecamp)
-2. [https://www.youtube.com/c/TheNetNinja](https://www.youtube.com/c/TheNetNinja)
-3. [Английский язык](https://www.youtube.com/playlist?list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92) (полная версия)
-4. [Английский язык](https://www.youtube.com/playlist?list=PL66DIGaegedqVBwaauzKVk7DNqIFaXrN_) (сокращенная версия)
-
-![](https://i.ibb.co/vJw8MdP/Untitled-4.jpg)
-
-1. Компилятор [текст #1](http://slides.com/ivansedov/compilers-01), [текст #2](http://slides.com/ivansedov/compilers-02), [текст #3](http://slides.com/ivansedov/compilers-03), [текст #4](http://slides.com/ivansedov/compilers-04) + [код](https://replit.com/@sedovsedov1/basic#main.py)
-2. Виртуальная машина [текст](http://slides.com/ivansedov/virtual_machine) + [код](https://replit.com/@sedovsedov1/virtualmachine#main.py)
-
-# Седов
-
-1. На Exercism https://exercism.org/profiles/e1m7
-2. На Replit https://replit.com/@sedovsedov1
+1. Канал в видео-уроками [https://www.youtube.com/c/Freecodecamp](https://www.youtube.com/c/Freecodecamp)
+2. Канал с видео-уроками [https://www.youtube.com/c/TheNetNinja](https://www.youtube.com/c/TheNetNinja)
+3. Изучение английского языка [ссылка](https://www.youtube.com/playlist?list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92) (полная версия)
+4. Изучение английского языка [ссылка](https://www.youtube.com/playlist?list=PL66DIGaegedqVBwaauzKVk7DNqIFaXrN_) (сокращенная версия)
+5. Седов И.А. на сайте Exercism https://exercism.org/profiles/e1m7
+6. Седов И.А. на сайте Replit https://replit.com/@sedovsedov1
