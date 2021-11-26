@@ -91,3 +91,8 @@
 
 1. Компилятор [текст #1](http://slides.com/ivansedov/compilers-01), [текст #2](http://slides.com/ivansedov/compilers-02), [текст #3](http://slides.com/ivansedov/compilers-03), [текст #4](http://slides.com/ivansedov/compilers-04) + [код](https://replit.com/@sedovsedov1/basic#main.py)
 2. Виртуальная машина [текст](http://slides.com/ivansedov/virtual_machine) + [код](https://replit.com/@sedovsedov1/virtualmachine#main.py)
+
+# Седов
+
+1. На Exercism https://exercism.org/profiles/e1m7
+2. На Replit https://replit.com/@sedovsedov1
