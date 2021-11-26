@@ -84,7 +84,7 @@
 
 1. Канал в видео-уроками [https://www.youtube.com/c/Freecodecamp](https://www.youtube.com/c/Freecodecamp)
 2. Канал с видео-уроками [https://www.youtube.com/c/TheNetNinja](https://www.youtube.com/c/TheNetNinja)
-3. Изучение английского языка [ссылка](https://www.youtube.com/playlist?list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92) (полная версия)
-4. Изучение английского языка [ссылка](https://www.youtube.com/playlist?list=PL66DIGaegedqVBwaauzKVk7DNqIFaXrN_) (сокращенная версия)
-5. Седов И.А. на сайте Exercism https://exercism.org/profiles/e1m7
-6. Седов И.А. на сайте Replit https://replit.com/@sedovsedov1
+3. Изучение английского языка [полная версия](https://www.youtube.com/playlist?list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92)
+4. Изучение английского языка [сокращенная версия](https://www.youtube.com/playlist?list=PL66DIGaegedqVBwaauzKVk7DNqIFaXrN_)
+5. https://exercism.org/profiles/e1m7
+6. https://replit.com/@sedovsedov1
