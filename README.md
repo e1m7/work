@@ -42,7 +42,7 @@
 |2 | Написание оболочки      | 10       | [ссылка]() |
 
 1. Официальное видео [ссылка](https://disk.yandex.ru/d/1WxpxnkYDdiD6Q)
-2. Пособие Седова И.А. "Смарт-контракты" [ссылка](https://disk.yandex.ru/i/uIWPfrC1abxWpw)
+2. Пособие по контрактам [ссылка](https://disk.yandex.ru/i/uIWPfrC1abxWpw)
 
 ![](https://i.ibb.co/y8XZ7tb/Untitled-1.jpg)
 
