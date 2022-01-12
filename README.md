@@ -53,7 +53,7 @@
 | Номер     | Название      | Ссылка |
 | ----------- | ----------- | ----------- |
 |1 | Основы языка Blockly      | [ссылка](https://www.youtube.com/playlist?list=PLiXXnd7WHCGwZQk2EkTCUw1rmSNoUjlYQ)       |
-|2 | Дополнительные компоненты      | [ссылка](https://disk.yandex.ru/d/_njx5i9AS3nyNQ)       |
+|2 | Дополнительные компоненты      | [ссылка](https://disk.yandex.ru/d/hkAlNsPes5UUmw)       |
 
 2 семестр
 
