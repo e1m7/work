@@ -1,4 +1,4 @@
-![](https://dg8krxphbh767.cloudfront.net/tracks/dart.svg) ![](https://dg8krxphbh767.cloudfront.net/tracks/lua.svg) ![](https://dg8krxphbh767.cloudfront.net/tracks/csharp.svg) ![](https://dg8krxphbh767.cloudfront.net/tracks/javascript.svg) ![](https://dg8krxphbh767.cloudfront.net/tracks/python.svg) ![](https://dg8krxphbh767.cloudfront.net/tracks/ruby.svg) ![](https://dg8krxphbh767.cloudfront.net/tracks/x86-64-assembly.svg) ![](https://dg8krxphbh767.cloudfront.net/tracks/tcl.svg) ![](https://dg8krxphbh767.cloudfront.net/tracks/haskell.svg) ![](https://dg8krxphbh767.cloudfront.net/tracks/common-lisp.svg)
+![](https://dg8krxphbh767.cloudfront.net/tracks/dart.svg) ![](https://dg8krxphbh767.cloudfront.net/tracks/lua.svg) ![](https://dg8krxphbh767.cloudfront.net/tracks/csharp.svg)
 
 ![](https://i.ibb.co/MCMcvym/Focus-on-Small-Steps-1584-x-396-px.jpg)
 
