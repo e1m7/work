@@ -1,5 +1,3 @@
-![](https://dg8krxphbh767.cloudfront.net/tracks/dart.svg) ![](https://dg8krxphbh767.cloudfront.net/tracks/lua.svg) ![](https://dg8krxphbh767.cloudfront.net/tracks/csharp.svg)
-
 ![](https://i.ibb.co/MCMcvym/Focus-on-Small-Steps-1584-x-396-px.jpg)
 
 | Номер     | Название      | Курс
