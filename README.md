@@ -1,4 +1,4 @@
-![](https://i.ibb.co/MCMcvym/Focus-on-Small-Steps-1584-x-396-px.jpg)
+![](https://i.ibb.co/vXTWw40/Focus-on-Small-Steps-1584-x-396-px.jpg)
 
 | Номер     | Название      | Курс
 | ----------- | ----------- | ----------- |
