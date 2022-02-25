@@ -1,14 +1,23 @@
 ![](https://i.ibb.co/vXTWw40/Focus-on-Small-Steps-1584-x-396-px.jpg)
 
-| Номер     | Название      | Курс
-| ----------- | ----------- | ----------- |
-|1 | WorldSkills экзамен | 4
-|2 | Аттестация Blockchain | 3
-|3 | Разработка мобильных приложений | 3
-|4 | Алгоритмы и языки программирования | 2
-|5 | Дополнительные [презентации](https://slides.com/ivansedov) | 1-4
-|6 | Дополнительные [лекции](https://disk.yandex.ru/d/DGhMJddbb3fuVg) | 1-4
-|7 | Рекомендации | 1-4
+Языки программирования
+
+1. Assembler
+2. Basic
+3. C/C#/C++
+4. Crystal
+5. Dart
+6. Golang
+7. Haskell
+8. Java
+9. JavaScript
+11. Lua
+12. Lisp
+13. Pascal
+14. Nim
+15. Tcl
+16. Python
+17. Ruby
 
 ![](https://i.ibb.co/kXM3Sz3/Untitled.jpg)
 
