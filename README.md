@@ -4,7 +4,7 @@
 2. Файлы [link](https://disk.yandex.ru/d/DGhMJddbb3fuVg)
 3. Записная книжка [link](https://rentry.co/ivansedov)
 
-![](https://www.codewars.com/users/e1m7/badges/small?theme=light)
+[![](https://www.codewars.com/users/e1m7/badges/small?theme=light)](https://www.codewars.com)
 
 ![](https://i.ibb.co/kXM3Sz3/Untitled.jpg)
 
