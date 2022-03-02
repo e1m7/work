@@ -1,10 +1,14 @@
 ![](https://i.ibb.co/vXTWw40/Focus-on-Small-Steps-1584-x-396-px.jpg)
 
-1. Презентациии [link](https://slides.com/ivansedov)
-2. Файлы [link](https://disk.yandex.ru/d/DGhMJddbb3fuVg)
+1. Все презентации к лекциям [link](https://slides.com/ivansedov)
+2. Все практические работы [link](https://disk.yandex.ru/d/DGhMJddbb3fuVg)
 3. Записная книжка [link](https://rentry.co/ivansedov)
 
 [![](https://www.codewars.com/users/e1m7/badges/small?theme=light)](https://www.codewars.com)
+
+4. Аккаунт Excercism [link](https://exercism.org/profiles/e1m7)
+5. Аккаунт CodeWar [link](https://www.codewars.com/users/e1m7)
+6. Аккаунт GitHub [link](https://github.com/e1m7)
 
 ![](https://i.ibb.co/kXM3Sz3/Untitled.jpg)
 
