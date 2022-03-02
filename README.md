@@ -1,7 +1,7 @@
 ![](https://i.ibb.co/vXTWw40/Focus-on-Small-Steps-1584-x-396-px.jpg)
 
 1. Все презентации к лекциям [link](https://slides.com/ivansedov)
-2. Все практические работы [link](https://disk.yandex.ru/d/DGhMJddbb3fuVg)
+2. Все практические к лекциям [link](https://disk.yandex.ru/d/DGhMJddbb3fuVg)
 3. Записная книжка [link](https://rentry.co/ivansedov)
 
 [![](https://www.codewars.com/users/e1m7/badges/small?theme=light)](https://www.codewars.com)
