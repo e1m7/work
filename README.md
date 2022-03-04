@@ -6,10 +6,6 @@
 
 [![](https://www.codewars.com/users/e1m7/badges/small?theme=light)](https://www.codewars.com)
 
-4. Аккаунт Excercism [link](https://exercism.org/profiles/e1m7)
-5. Аккаунт CodeWar [link](https://www.codewars.com/users/e1m7)
-6. Аккаунт GitHub [link](https://github.com/e1m7)
-
 ![](https://i.ibb.co/kXM3Sz3/Untitled.jpg)
 
 Демонстрационный экзамен WorldSkills "Программные решения для бизнеса" сдается студентами специальности "Информационные системы и программирование" в конце 4-го курса перед защитой дипломного проекта. Экзамен пишется 3,5-4,5 часа (зависит от кода) и включает в себя демонстрацию следующих умений: создание удаленной базы данных на сервере MySQL, создание desktop-приложения в среде Microsot Visual Studio 2019, создание мобильного приложения в программе Android Studio, разработка API приложения, создание unitTest модульных тестов программного продукта, создание useCase-диаграммы программного продукта, работа с системой контроля версий Git/Gogs, другое...
