@@ -109,8 +109,8 @@
 ## Практика Рубанова
 1. Express [link](https://www.youtube.com/watch?v=9EtkpCzqZu0&list=WL&index=1)
 2. Express blog [link](https://www.youtube.com/watch?v=1NrHkjlWVhM&list=WL&index=2)
-3. Geth [link](ttps://www.youtube.com/watch?v=uTCAjtluS-A&list=WL&index=4)
-4. Web3 [link](ttps://www.youtube.com/watch?v=xWFba_9QYmc&list=WL&index=3)
-5. Блокчейн видео офф [link](ttps://disk.yandex.ru/d/1WxpxnkYDdiD6Q)
+3. Geth [link](https://www.youtube.com/watch?v=uTCAjtluS-A&list=WL&index=4)
+4. Web3 [link](https://www.youtube.com/watch?v=xWFba_9QYmc&list=WL&index=3)
+5. Блокчейн видео офф [link](https://disk.yandex.ru/d/1WxpxnkYDdiD6Q)
 
 
