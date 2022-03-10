@@ -94,3 +94,23 @@
 2. Канал с видео-уроками [https://www.youtube.com/c/TheNetNinja](https://www.youtube.com/c/TheNetNinja)
 3. Изучение английского языка [полная версия](https://www.youtube.com/playlist?list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92)
 4. Изучение английского языка [сокращенная версия](https://www.youtube.com/playlist?list=PL66DIGaegedqVBwaauzKVk7DNqIFaXrN_)
+
+# Информация на 2022 год
+
+## 3 курс
+1) React project https://youtu.be/a_7Z7C_JCyo
+2) Angular project https://youtu.be/2OHbjep_WjQ
+3) Vue project https://youtu.be/FXpIoQ_rT_c
+4) Svelte project https://youtu.be/ujbE0mzX-CU
+
+## 4 курс
+Темы дипломных https://docs.google.com/document/d/1xIYDWocFqq9YAnoS4ztj8F-MPVlt3eOeE_5aAxfK568/edit
+
+## Практика Рубанова
+1. Express https://www.youtube.com/watch?v=9EtkpCzqZu0&list=WL&index=1
+2. Express blog https://www.youtube.com/watch?v=1NrHkjlWVhM&list=WL&index=2
+3. Geth https://www.youtube.com/watch?v=uTCAjtluS-A&list=WL&index=4
+4. Web3 https://www.youtube.com/watch?v=xWFba_9QYmc&list=WL&index=3
+5. Блокчейн видео офф https://disk.yandex.ru/d/1WxpxnkYDdiD6Q
+
+
