@@ -57,10 +57,10 @@
 | ----------- | ----------- | ----------- |
 |1 | Основы HTML и CSS      | [ссылка](https://stepik.org/course/52164)       |
 |2 | Основы JavaScript      | [ссылка](https://stepik.org/course/2223)       |
-|3 | Язык программирования Dart      |  |
-|4 | Flutter, вариант 1        | [ссылка](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) |
-|5 | Flutter, вариант 2        | [ссылка](https://www.youtube.com/playlist?list=PL6lh8cTntlDiLlH_rHl5F0JOy_gRm_Wa4) |
-|6 | Flutter, вариант 3        | [ссылка](https://www.youtube.com/playlist?list=PL6lh8cTntlDiLlH_rHl5F0JOy_gRm_Wa4) |
+|3 | Язык Dart      |  |
+|4 | Flutter, вариант 1        | [ссылка](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) |
+|5 | Flutter, вариант 2        | [ссылка](https://www.youtube.com/watch?v=cpkSVwf75-k&list=PL6lh8cTntlDiLlH_rHl5F0JOy_gRm_Wa4) |
+|6 | Flutter, вариант 3        | [ссылка](https://www.youtube.com/watch?v=sOYGLk3A6NQ&list=PLyaYkfwvXhRKjYAIO4_J_IcHtAXUR_1ci) |
 |7 | Финальное задание      |
 
 ![](https://i.ibb.co/y6K6p4d/Untitled-2.jpg)
