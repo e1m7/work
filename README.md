@@ -57,11 +57,11 @@
 | ----------- | ----------- | ----------- |
 |1 | Основы HTML и CSS      | [ссылка](https://stepik.org/course/52164)       |
 |2 | Основы JavaScript      | [ссылка](https://stepik.org/course/2223)       |
-|3 | Todo-приложение React      | [ссылка](https://codesandbox.io/s/todo-react-yyueo) |
-|4 | Todo-приложение Vue        | [ссылка](https://codesandbox.io/s/todo-vue-i590b) |
-|5 | Todo-приложение Angular        | [ссылка](https://codesandbox.io/s/todo-angular-jeggr) |
-|6 | Todo-приложение Svelte        | [ссылка](https://codesandbox.io/s/todo-svelte-evcwo) |
-|7 | Финальное задание по курсу      |
+|3 | Язык программирования Dart      |  |
+|4 | Flutter, вариант 1        | [ссылка](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) |
+|5 | Flutter, вариант 2        | [ссылка](https://www.youtube.com/playlist?list=PL6lh8cTntlDiLlH_rHl5F0JOy_gRm_Wa4) |
+|6 | Flutter, вариант 3        | [ссылка](https://www.youtube.com/playlist?list=PL6lh8cTntlDiLlH_rHl5F0JOy_gRm_Wa4) |
+|7 | Финальное задание      |
 
 ![](https://i.ibb.co/y6K6p4d/Untitled-2.jpg)
 
