@@ -44,49 +44,31 @@
 
 Мобильные приложения на сегодняшний день разрабатываются под две платформы: Android и iOS. Система Android имеет три официальных языка программирования: Kotlin, Java и Rust. Также под любую платформу можно писать на нативном JavaScript, который работает как в среде Android, так и в среде iOS. Мы начнем изучение с простого языка Blockly, а потом перейдем на нативный JavaScript. Это позволит изучить технологию за год и даст необходимые знания для создания приложений начального уровня. Мы будем изучать: работу с экранами, элементами управления, массивами, циклами, условиями, переменными, основы обработки графики на мобильных устройствах, основы работы с базами данных, файлами, смс-уведомлениями, QR-кодами, специальными элементами управления и проч.
 
-1 семестр
-
-| Номер     | Название      | Ссылка |
-| ----------- | ----------- | ----------- |
-|1 | Основы языка Blockly      | [ссылка](https://www.youtube.com/playlist?list=PLiXXnd7WHCGwZQk2EkTCUw1rmSNoUjlYQ)       |
-|2 | Дополнительные компоненты      | [ссылка](https://disk.yandex.ru/d/hkAlNsPes5UUmw)       |
-
-2 семестр
-
-| Номер     | Название      | Ссылка |
-| ----------- | ----------- | ----------- |
-|1 | Основы HTML и CSS      | [ссылка](https://stepik.org/course/52164)       |
-|2 | Основы JavaScript      | [ссылка](https://stepik.org/course/2223)       |
-|3 | Язык Dart      |  |
-|4 | Flutter, вариант 1        | [ссылка](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) |
-|5 | Flutter, вариант 2        | [ссылка](https://www.youtube.com/watch?v=cpkSVwf75-k&list=PL6lh8cTntlDiLlH_rHl5F0JOy_gRm_Wa4) |
-|6 | Flutter, вариант 3        | [ссылка](https://www.youtube.com/watch?v=sOYGLk3A6NQ&list=PLyaYkfwvXhRKjYAIO4_J_IcHtAXUR_1ci) |
-|7 | Финальное задание      |
+1. Основы языка Blockly [ссылка](https://www.youtube.com/playlist?list=PLiXXnd7WHCGwZQk2EkTCUw1rmSNoUjlYQ)
+2. Дополнительные компоненты [ссылка](https://disk.yandex.ru/d/hkAlNsPes5UUmw)
+3. Основы HTML и CSS [ссылка](https://stepik.org/course/52164)
+4. Основы JavaScript [ссылка](https://stepik.org/course/2223)
+5. Язык Dart
+6. Flutter, вариант 1 [ссылка](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
+7. Flutter, вариант 2 [ссылка](https://www.youtube.com/watch?v=cpkSVwf75-k&list=PL6lh8cTntlDiLlH_rHl5F0JOy_gRm_Wa4)
+8. Flutter, вариант 3 [ссылка](https://www.youtube.com/watch?v=sOYGLk3A6NQ&list=PLyaYkfwvXhRKjYAIO4_J_IcHtAXUR_1ci)
+9. Финальное задание
 
 ![](https://i.ibb.co/y6K6p4d/Untitled-2.jpg)
 
 Изучание языка программирования это "букварь" для любого программиста. От выбора первого языка зависит очень много, так как он в любом случае заложит основы программирования в целом и наметит путь развития молодого человека как программиста в будущем. У нас связаны руки и мы должны подойти к концу 4-го курса, зная язык C#, чтобы написать демо-экзамен. Поэтому принято решение изучать в качестве начальных языков программирования два: 1) Lua (1 семестр), 2) C# (2 семестр). Язык Lua даст легкость, уверенность, понимание объектно-ориентированных технологий программирования. Язык C# ляжет на готовый фундамент и подготовит молодого специалиста к демо-экзамену. Этот путь не идеален, но является компромиссом между требованиями времени и министерства образования.
 
-1 семестр
-
-| Номер     | Название      | Ссылка |
-| ----------- | ----------- | ----------- |
-|1  | Little Man Computer 1 | [ссылка](https://slides.com/ivansedov/little_man_computer_01)
-|2  | Little Man Computer 2 | [ссылка](https://slides.com/ivansedov/little_man_computer_02)
-|3  | Little Man Computer 3 |[ссылка](https://slides.com/ivansedov/little_man_computer_03)
-|4  | Основы языка Lua | [ссылка](https://slides.com/ivansedov/lua)
-|5  | Практика по языку Lua | [ссылка](https://exercism.org)
-
-2 семестр
-
-| Номер     | Название      | Ссылка |
-| ----------- | ----------- | ----------- |
-| 1| Основы языка Си-шарп | [ссылка](https://slides.com/ivansedov/csharp)
-| 2| Windows Forms основы | [ссылка](https://www.youtube.com/playlist?list=PLTbLgUhfboqxxB14zFDaPHHO7nWZgoa95)
-| 3| Получение сертификата #1 | [ссылка](https://gb.ru/courses/87) 
-| 4| Получение сертификата #2 | [ссылка](https://gb.ru/courses/67) 
-| 5| Получение сертификата #3 | [ссылка](https://gb.ru/courses/72)
-| 6| Финальное задание по курсу| 
+1. Little Man Computer 1 [ссылка](https://slides.com/ivansedov/little_man_computer_01)
+2. Little Man Computer 2 [ссылка](https://slides.com/ivansedov/little_man_computer_02)
+3. Little Man Computer 3 [ссылка](https://slides.com/ivansedov/little_man_computer_03)
+4. Основы языка Lua [ссылка](https://slides.com/ivansedov/lua)
+5. Практика по языку Lua [ссылка](https://exercism.org)
+6. Основы языка Си-шарп [ссылка](https://slides.com/ivansedov/csharp)
+7. Windows Forms основы [ссылка](https://www.youtube.com/playlist?list=PLTbLgUhfboqxxB14zFDaPHHO7nWZgoa95)
+8. Получение сертификата #1 [ссылка](https://gb.ru/courses/87) 
+9. Получение сертификата #2 [ссылка](https://gb.ru/courses/67) 
+10. Получение сертификата #3 [ссылка](https://gb.ru/courses/72)
+11. Финальное задание по курсу
 
 ![](https://i.ibb.co/3F11kVM/2021-11-26-19-16-45.png)
 
