@@ -7,20 +7,6 @@
 
 ![](https://i.ibb.co/y8XZ7tb/Untitled-1.jpg)
 
-# 2022
-
-1. Основы языка Blockly [ссылка](https://www.youtube.com/playlist?list=PLiXXnd7WHCGwZQk2EkTCUw1rmSNoUjlYQ)
-2. Дополнительные компоненты [ссылка](https://disk.yandex.ru/d/hkAlNsPes5UUmw)
-3. Основы HTML и CSS [ссылка](https://stepik.org/course/52164)
-4. Основы JavaScript [ссылка](https://stepik.org/course/2223)
-5. Язык Dart
-6. Flutter, вариант 1 [ссылка](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
-7. Flutter, вариант 2 [ссылка](https://www.youtube.com/watch?v=cpkSVwf75-k&list=PL6lh8cTntlDiLlH_rHl5F0JOy_gRm_Wa4)
-8. Flutter, вариант 3 [ссылка](https://www.youtube.com/watch?v=sOYGLk3A6NQ&list=PLyaYkfwvXhRKjYAIO4_J_IcHtAXUR_1ci)
-9. Финальное задание
-
-# 2023
-
 1. Блокчейн-разработка, лекции
 2. Блокчейн-разработка, практика
 3. Основы языка Dart, лекции
@@ -30,22 +16,6 @@
 7. Большой (индивидуальный) проект
 
 ![](https://i.ibb.co/y6K6p4d/Untitled-2.jpg)
-
-# 2022
-
-1. Little Man Computer 1 [ссылка](https://slides.com/ivansedov/little_man_computer_01)
-2. Little Man Computer 2 [ссылка](https://slides.com/ivansedov/little_man_computer_02)
-3. Little Man Computer 3 [ссылка](https://slides.com/ivansedov/little_man_computer_03)
-4. Основы языка Lua [ссылка](https://slides.com/ivansedov/lua)
-5. Практика по языку Lua [ссылка](https://exercism.org)
-6. Основы языка Си-шарп [ссылка](https://slides.com/ivansedov/csharp)
-7. Windows Forms основы [ссылка](https://www.youtube.com/playlist?list=PLTbLgUhfboqxxB14zFDaPHHO7nWZgoa95)
-8. Получение сертификата #1 [ссылка](https://gb.ru/courses/87) 
-9. Получение сертификата #2 [ссылка](https://gb.ru/courses/67) 
-10. Получение сертификата #3 [ссылка](https://gb.ru/courses/72)
-11. Финальное задание по курсу
-
-# 2023
 
 1. Основы языка JavaScript, лекции
 2. Основы языка JavaScript, практика [link](https://exercism.org/tracks/javascript)
