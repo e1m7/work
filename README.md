@@ -17,7 +17,7 @@
 
 ![](https://i.ibb.co/y6K6p4d/Untitled-2.jpg)
 
-1. Основы языка JavaScript, лекции
+1. Основы языка JavaScript, лекции [https://scrimba.com](https://scrimba.com)
 2. Основы языка JavaScript, практика [link](https://exercism.org/tracks/javascript)
 3. Основы языка C#, лекции [link](https://ru.code-basics.com/languages/csharp)
 4. Основы языка C#, практика [link](https://exercism.org/tracks/csharp)
