@@ -3,7 +3,7 @@
 1. Все презентации к лекциям [link](https://slides.com/ivansedov)
 2. Все практические к лекциям [link](https://disk.yandex.ru/d/DGhMJddbb3fuVg)
 3. Записная книжка [link](https://rentry.co/ivansedov)
-4. Для демо-экзамена WorldSkills [link]()
+4. Для демо-экзамена WorldSkills [link](https://github.com/e1m7/work/blob/main/e1m7_github_io_work.pdf)
 
 ![](https://i.ibb.co/y8XZ7tb/Untitled-1.jpg)
 
