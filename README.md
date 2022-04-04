@@ -16,13 +16,16 @@
 
 ![](https://i.ibb.co/y6K6p4d/Untitled-2.jpg)
 
-1. Основы языка JavaScript, лекции [https://scrimba.com](https://scrimba.com)
-2. Основы языка JavaScript, практика (часть 1) [https://ru.code-basics.com/languages/javascript](https://ru.code-basics.com/languages/javascript)
-3. Основы языка JavaScript, практика (лекции) [https://exercism.org/tracks/javascript](https://exercism.org/tracks/javascript)
-4. Основы языка JavaScript, практика (часть 2) [https://edabit.com/](https://edabit.com/)
-5. Основы языка C#, лекции [https://ru.code-basics.com/languages/csharp](https://ru.code-basics.com/languages/csharp)
-6. Основы языка C#, практика [https://exercism.org/tracks/csharp](https://exercism.org/tracks/csharp)
-7. Большой (индивидуальный) проект
+Семестр 1
+1. Основы языка JavaScript, лекции (теория) [https://scrimba.com](https://scrimba.com)
+2. Основы языка JavaScript, лекции (практика) [https://exercism.org/tracks/javascript](https://exercism.org/tracks/javascript)
+3. Основы языка JavaScript, практика (теория) [https://ru.code-basics.com/languages/javascript](https://ru.code-basics.com/languages/javascript)
+4. Основы языка JavaScript, практика (практика) [https://edabit.com/](https://edabit.com/)
+
+Семестр 2
+1. Основы языка C#, лекции (лекции) [https://ru.code-basics.com/languages/csharp](https://ru.code-basics.com/languages/csharp)
+2. Основы языка C#, практика (практика) [https://edabit.com/](https://edabit.com/)
+3. Большой (индивидуальный) проект
 
 
 ![](https://i.ibb.co/3F11kVM/2021-11-26-19-16-45.png)
