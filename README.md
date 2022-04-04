@@ -17,11 +17,12 @@
 ![](https://i.ibb.co/y6K6p4d/Untitled-2.jpg)
 
 1. Основы языка JavaScript, лекции [https://scrimba.com](https://scrimba.com)
-2. Основы языка JavaScript, практика [https://ru.code-basics.com/languages/javascript](https://ru.code-basics.com/languages/javascript)
-3. Основы языка JavaScript, практика [https://exercism.org/tracks/javascript](https://exercism.org/tracks/javascript)
-4. Основы языка C#, лекции [https://ru.code-basics.com/languages/csharp](https://ru.code-basics.com/languages/csharp)
-5. Основы языка C#, практика [https://exercism.org/tracks/csharp](https://exercism.org/tracks/csharp)
-6. Большой (индивидуальный) проект
+2. Основы языка JavaScript, практика (часть 1) [https://ru.code-basics.com/languages/javascript](https://ru.code-basics.com/languages/javascript)
+3. Основы языка JavaScript, практика (лекции) [https://exercism.org/tracks/javascript](https://exercism.org/tracks/javascript)
+4. Основы языка JavaScript, практика (часть 2) [https://edabit.com/](https://edabit.com/)
+5. Основы языка C#, лекции [https://ru.code-basics.com/languages/csharp](https://ru.code-basics.com/languages/csharp)
+6. Основы языка C#, практика [https://exercism.org/tracks/csharp](https://exercism.org/tracks/csharp)
+7. Большой (индивидуальный) проект
 
 
 ![](https://i.ibb.co/3F11kVM/2021-11-26-19-16-45.png)
