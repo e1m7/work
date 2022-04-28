@@ -20,8 +20,28 @@
 
 Семестр 1
 1. Основы языка Python (лекции)
-2. Основы языка Python (практика) [https://pythontutor.ru/](https://pythontutor.ru)
-3. Основы языка Python (пособие) [ссылка](https://disk.yandex.ru/i/Sp90alQKt-z6Bg)
+
+- вводная информация
+- основы языка Python
+- списки, кортежи, словари, множества
+- работа с файлами
+- работа со строками
+- основные модули
+- объектно-ориентированное программирование
+- работа с датой и временем
+
+3. Основы языка Python (практика) [https://pythontutor.ru/](https://pythontutor.ru)
+4. Основы языка Python (пособие) [ссылка](https://disk.yandex.ru/i/Sp90alQKt-z6Bg)
+
+- машинное обучение
+- нейронные сети
+- криптография
+- интерпретатор Brainfuck
+- интерпретатор Lisp
+- мессенджер
+- менеджер задач
+- блокчейн
+- WorldSkills-решение
 
 Семестр 2
 1. Основы языка C#, лекции (лекции) [https://ru.code-basics.com/languages/csharp](https://ru.code-basics.com/languages/csharp)
