@@ -18,7 +18,7 @@
 
 ![](https://i.ibb.co/y6K6p4d/Untitled-2.jpg)
 
-Семестр 1
+**Семестр 1**
 1. Основы языка Python (лекции)
 
 - вводная информация
@@ -44,7 +44,7 @@
 - множества
 - словари
 
-4. Основы языка Python (пособие) [ссылка](https://disk.yandex.ru/i/Sp90alQKt-z6Bg)
+3. Основы языка Python (пособие) [ссылка](https://disk.yandex.ru/i/Sp90alQKt-z6Bg)
 
 - машинное обучение
 - нейронные сети
@@ -56,7 +56,7 @@
 - блокчейн
 - WorldSkills-решение
 
-Семестр 2
+**Семестр 2**
 1. Основы языка C#, лекции (лекции) [https://ru.code-basics.com/languages/csharp](https://ru.code-basics.com/languages/csharp)
 2. Основы языка C#, практика (практика) [https://edabit.com/](https://edabit.com/)
 3. Большой (индивидуальный) проект
