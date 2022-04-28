@@ -2,7 +2,6 @@
 
 1. Все презентации к лекциям [https://slides.com/ivansedov](https://slides.com/ivansedov)
 2. Все практические к лекциям [https://disk.yandex.ru/d/DGhMJddbb3fuVg](https://disk.yandex.ru/d/DGhMJddbb3fuVg)
-3. Записная книжка [https://rentry.co/ivansedov](https://rentry.co/ivansedov)
 
 ![](https://i.ibb.co/y8XZ7tb/Untitled-1.jpg)
 
@@ -20,10 +19,9 @@
 ![](https://i.ibb.co/y6K6p4d/Untitled-2.jpg)
 
 Семестр 1
-1. Основы языка JavaScript, лекции (теория) [https://scrimba.com](https://scrimba.com)
-2. Основы языка JavaScript, лекции (практика) [https://exercism.org/tracks/javascript](https://exercism.org/tracks/javascript)
-3. Основы языка JavaScript, практика (теория) [https://ru.code-basics.com/languages/javascript](https://ru.code-basics.com/languages/javascript)
-4. Основы языка JavaScript, практика (практика) [https://edabit.com/](https://edabit.com/)
+1. Основы языка Python (лекции)
+2. Основы языка Python (практика) [https://pythontutor.ru/](https://pythontutor.ru)
+3. Основы языка Python (пособие) [ссылка](https://disk.yandex.ru/i/Sp90alQKt-z6Bg)
 
 Семестр 2
 1. Основы языка C#, лекции (лекции) [https://ru.code-basics.com/languages/csharp](https://ru.code-basics.com/languages/csharp)
@@ -38,4 +36,3 @@
 3. Канал видео-уроками [https://www.youtube.com/c/Flutterly](https://www.youtube.com/c/Flutterly)
 4. Изучение английского языка [полная версия](https://www.youtube.com/playlist?list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92)
 5. Изучение английского языка [сокращенная версия](https://www.youtube.com/playlist?list=PL66DIGaegedqVBwaauzKVk7DNqIFaXrN_)
-6. Изучение машинного обучения [https://www.kaggle.com](https://www.kaggle.com)
