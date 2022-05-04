@@ -2,6 +2,7 @@
 
 1. Все презентации к лекциям [https://slides.com/ivansedov](https://slides.com/ivansedov)
 2. Все практические к лекциям [https://disk.yandex.ru/d/DGhMJddbb3fuVg](https://disk.yandex.ru/d/DGhMJddbb3fuVg)
+3. Записаня книжка [https://rentry.co/ivansedov](https://rentry.co/ivansedov)
 
 ![](https://i.ibb.co/y8XZ7tb/Untitled-1.jpg)
 
