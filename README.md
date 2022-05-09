@@ -1,10 +1,10 @@
-![](https://i.ibb.co/vXTWw40/Focus-on-Small-Steps-1584-x-396-px.jpg)
+# Основные сайты
 
 1. Все презентации к лекциям [https://slides.com/ivansedov](https://slides.com/ivansedov)
 2. Все практические к лекциям [https://disk.yandex.ru/d/DGhMJddbb3fuVg](https://disk.yandex.ru/d/DGhMJddbb3fuVg)
 3. Записная книжка [https://rentry.co/ivansedov](https://rentry.co/ivansedov)
 
-![](https://i.ibb.co/y8XZ7tb/Untitled-1.jpg)
+# Мобильные приложения
 
 1. Основы языка Dart, лекции
 2. Создание мобильных приложений на Flutter вариант 1 [link](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
@@ -12,13 +12,13 @@
 4. Создание мобильных приложений на Flutter вариант 3 [link](https://www.youtube.com/watch?v=sOYGLk3A6NQ&list=PLyaYkfwvXhRKjYAIO4_J_IcHtAXUR_1ci)
 5. Большой (индивидуальный) проект
 
-![](https://i.ibb.co/y6K6p4d/Untitled-2.jpg)
+# Алгоритмы и программирование
 
 1. Основы языка Python (лекции)
 2. Основы языка Python (практика) [https://pythontutor.ru/](https://pythontutor.ru)
 3. Основы языка Python (пособие) [ссылка](https://disk.yandex.ru/i/Sp90alQKt-z6Bg)
 
-![](https://i.ibb.co/3F11kVM/2021-11-26-19-16-45.png)
+# Рекомендованные сайты
 
 1. Канал в видео-уроками [https://www.youtube.com/c/Freecodecamp](https://www.youtube.com/c/Freecodecamp)
 2. Канал с видео-уроками [https://www.youtube.com/c/TheNetNinja](https://www.youtube.com/c/TheNetNinja)
