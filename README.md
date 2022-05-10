@@ -1,3 +1,5 @@
+![](https://i.ibb.co/SQzNP1q/2022-05-10-13-53-38-canvas-apps-chrome-7e5a89252c7a.png)
+
 # Основные сайты
 
 1. Все презентации к лекциям [https://slides.com/ivansedov](https://slides.com/ivansedov)
