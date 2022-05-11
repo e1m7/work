@@ -1,4 +1,4 @@
-![](https://i.ibb.co/SQzNP1q/2022-05-10-13-53-38-canvas-apps-chrome-7e5a89252c7a.png)
+![](https://i.ibb.co/yfrzYD1/4n7pbxstodem7wcn4n7pbcgtthopdyqto8eazwf54n7pbcbyqozga6jxjtnwhoe.jpg)
 
 # Основные сайты
 
@@ -16,7 +16,7 @@
 
 # Алгоритмы и программирование
 
-1. Основы языка Python (лекции)
+1. Основы языка Python (лекции) [https://codecollab.io/@ivansedov/python](https://codecollab.io/@ivansedov/python)
 2. Основы языка Python (практика) [https://pythontutor.ru/](https://pythontutor.ru)
 3. Основы языка Python (пособие) [ссылка](https://disk.yandex.ru/i/Sp90alQKt-z6Bg)
 
