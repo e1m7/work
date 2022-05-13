@@ -14,27 +14,11 @@
 4. Создание мобильных приложений на Flutter вариант 3 [link](https://www.youtube.com/watch?v=sOYGLk3A6NQ&list=PLyaYkfwvXhRKjYAIO4_J_IcHtAXUR_1ci)
 5. Большой (индивидуальный) проект
 
-Дорожная карта мобильных приложений
-- Flutter для новичков https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ
-- Flutter и базы данных https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC
-- React полный курс https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
-- Vue полный курс https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1
-- Angular полный курс https://www.youtube.com/playlist?list=PL4cUxeGkcC9gsJS5QgFT2IvWIX78dV3_v
-- Svelte полный курс https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO
-
 # Алгоритмы и программирование
 
 1. Основы языка Python (лекции) [https://codecollab.io/@ivansedov/python](https://codecollab.io/@ivansedov/python)
 2. Основы языка Python (практика) [https://pythontutor.ru/](https://pythontutor.ru)
 3. Основы языка Python (пособие) [ссылка](https://disk.yandex.ru/i/Sp90alQKt-z6Bg)
-
-Дорожная карта Python
-- Объектно-ориентированное программирование https://www.youtube.com/watch?v=Ej_02ICOIgs
-- Фреймворк Flask https://www.youtube.com/watch?v=Qr4QMBUPxWo
-- Фреймворк Django https://www.youtube.com/watch?v=F5mRW0jo-U4
-- Библиотека Tkinter https://www.youtube.com/watch?v=YXPyB4XeYLA
-- Minecraft на движке Ursina https://www.youtube.com/watch?v=DHSRaVeQxIk
-- Свой язык программирование на Python https://www.youtube.com/playlist?list=PLZQftyCk7_SdoVexSmwy_tBgs7P0b97yD
 
 # Рекомендованные сайты
 
