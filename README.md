@@ -14,11 +14,19 @@
 4. Создание мобильных приложений на Flutter вариант 3 [link](https://www.youtube.com/watch?v=sOYGLk3A6NQ&list=PLyaYkfwvXhRKjYAIO4_J_IcHtAXUR_1ci)
 5. Большой (индивидуальный) проект
 
+Дополнительно
+- Flutter [https://www.youtube.com/watch?v=pTJJsmejUOQ](https://www.youtube.com/watch?v=pTJJsmejUOQ)
+- Svelte [https://www.youtube.com/watch?v=vhGiGqZ78Rs](https://www.youtube.com/watch?v=vhGiGqZ78Rs)
+
 # Алгоритмы и программирование
 
 1. Основы языка Python (лекции) [https://codecollab.io/@ivansedov/python](https://codecollab.io/@ivansedov/python)
 2. Основы языка Python (практика) [https://pythontutor.ru/](https://pythontutor.ru)
 3. Основы языка Python (пособие) [ссылка](https://disk.yandex.ru/i/Sp90alQKt-z6Bg)
+
+Дополнительно
+- Flask (подробно) [https://youtu.be/Qr4QMBUPxWo](https://youtu.be/Qr4QMBUPxWo)
+- Flask (быстро) [https://www.youtube.com/watch?v=Z1RJmh_OqeA](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
 
 # Рекомендованные сайты
 
