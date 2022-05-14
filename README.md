@@ -1,4 +1,4 @@
-![](https://i.ibb.co/yfrzYD1/4n7pbxstodem7wcn4n7pbcgtthopdyqto8eazwf54n7pbcbyqozga6jxjtnwhoe.jpg)
+![](https://x-lines.ru/letters/i/cyrillictechno/0682/000000/48/0/qozga6jxjtnwhoe.png)
 
 # Основные сайты
 
