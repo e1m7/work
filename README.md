@@ -1,4 +1,5 @@
 ![](https://x-lines.ru/letters/i/cyrillictechno/0682/000000/48/0/qozga6jxjtnwhoe.png)
+[![](https://i.ibb.co/SBjTrkn/qj1sh7d1xrzgg53xpf5gn5uuci1g67o.jpg)](https://rentry.co/ivansedov)
 
 # Основные сайты
 
