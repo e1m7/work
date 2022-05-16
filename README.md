@@ -21,9 +21,11 @@
 
 # Алгоритмы и программирование
 
-1. Основы языка Python (лекции) [https://codecollab.io/@ivansedov/python](https://codecollab.io/@ivansedov/python) или [https://pythontutor.com/live.html#mode=edit](https://pythontutor.com/live.html#mode=edit)
-2. Основы языка Python (практика) [https://pythontutor.ru/](https://pythontutor.ru)
-3. Основы языка Python (пособие) [ссылка](https://disk.yandex.ru/i/Sp90alQKt-z6Bg)
+1. Основы языка Python (лекции) [https://codecollab.io/@ivansedov/python](https://codecollab.io/@ivansedov/python)
+2. Основы языка Python (лекции) [https://pythontutor.com/live.html#mode=edit](https://pythontutor.com/live.html#mode=edit)
+3. Основы языка Python (лекции) [https://replit.com/@sedovsedov1/PythonForLessins](https://replit.com/@sedovsedov1/PythonForLessins)
+4. Основы языка Python (практика) [https://pythontutor.ru/](https://pythontutor.ru)
+5. Основы языка Python (пособие) [ссылка](https://disk.yandex.ru/i/Sp90alQKt-z6Bg)
 
 Дополнительно
 - Flask (подробно) [https://youtu.be/Qr4QMBUPxWo](https://youtu.be/Qr4QMBUPxWo)
