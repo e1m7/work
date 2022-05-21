@@ -30,7 +30,7 @@
 4. Изучение английского языка [полная версия](https://www.youtube.com/playlist?list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92)
 5. Изучение английского языка [сокращенная версия](https://www.youtube.com/playlist?list=PL66DIGaegedqVBwaauzKVk7DNqIFaXrN_)
 
-# Рекомендованный путь
+# Рекомендованный путь 
 
 1. Python (основы) [https://youtu.be/8124kv-632k](https://youtu.be/8124kv-632k)
 2. Python (ООП) [https://youtu.be/Ej_02ICOIgs](https://youtu.be/Ej_02ICOIgs)
