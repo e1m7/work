@@ -42,7 +42,7 @@
 
 # Рекомендованный путь 2
 
-1. FastAPI 1 час [https://www.youtube.com/watch?v=tLKKmouUams](https://www.youtube.com/watch?v=tLKKmouUams)
-2. FastAPI 2 часа [https://www.youtube.com/watch?v=Cy9fAvsXGZA](https://www.youtube.com/watch?v=Cy9fAvsXGZA)
-3. FastAPI 4 часа [https://www.youtube.com/watch?v=7t2alSnE2-I](https://www.youtube.com/watch?v=7t2alSnE2-I)
-4. API 19 часов [https://www.youtube.com/watch?v=0sOvCWFmrtA](https://www.youtube.com/watch?v=0sOvCWFmrtA)
+1. Postman 2 часа [https://www.youtube.com/watch?v=VywxIQ2ZXw4](https://www.youtube.com/watch?v=VywxIQ2ZXw4)
+2. FastAPI 1 час [https://www.youtube.com/watch?v=tLKKmouUams](https://www.youtube.com/watch?v=tLKKmouUams)
+3. FastAPI 2 часа [https://www.youtube.com/watch?v=Cy9fAvsXGZA](https://www.youtube.com/watch?v=Cy9fAvsXGZA)
+4. FastAPI 4 часа [https://www.youtube.com/watch?v=7t2alSnE2-I](https://www.youtube.com/watch?v=7t2alSnE2-I)
