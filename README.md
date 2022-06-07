@@ -47,4 +47,4 @@
 3. FastAPI 2 часа [https://www.youtube.com/watch?v=Cy9fAvsXGZA](https://www.youtube.com/watch?v=Cy9fAvsXGZA)
 4. FastAPI 4 часа [https://www.youtube.com/watch?v=7t2alSnE2-I](https://www.youtube.com/watch?v=7t2alSnE2-I)
 
-![](https://i.ibb.co/nn6nmZ3/qrcode-www-postman-com.png)
+![](https://i.ibb.co/XpTf5bD/Qrcode-www-postman-com.png)
