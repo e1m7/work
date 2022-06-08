@@ -29,24 +29,3 @@
 3. Канал видео-уроками [https://www.youtube.com/c/Flutterly](https://www.youtube.com/c/Flutterly)
 4. Изучение английского языка [полная версия](https://www.youtube.com/playlist?list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92)
 5. Изучение английского языка [сокращенная версия](https://www.youtube.com/playlist?list=PL66DIGaegedqVBwaauzKVk7DNqIFaXrN_)
-
-# Рекомендованный путь 1
-
-1. Python (основы) [https://youtu.be/8124kv-632k](https://youtu.be/8124kv-632k)
-2. Python (ООП) [https://youtu.be/Ej_02ICOIgs](https://youtu.be/Ej_02ICOIgs)
-3. Python (Tkinter) [https://youtu.be/YXPyB4XeYLA](https://youtu.be/YXPyB4XeYLA)
-4. Python (SQLite) [https://youtu.be/byHcYRpMgI4](https://youtu.be/byHcYRpMgI4)
-5. GitHub [https://youtu.be/RGOj5yH7evk](https://youtu.be/RGOj5yH7evk)
-6. Python (Flask) [https://youtu.be/Z1RJmh_OqeA](https://youtu.be/Z1RJmh_OqeA)
-7. Python (Games) [https://youtu.be/XGf2GcyHPhc](https://youtu.be/XGf2GcyHPhc)
-
-# Рекомендованный путь 2
-
-1. Postman 2 часа [https://www.youtube.com/watch?v=VywxIQ2ZXw4](https://www.youtube.com/watch?v=VywxIQ2ZXw4)
-2. FastAPI 1 час [https://www.youtube.com/watch?v=tLKKmouUams](https://www.youtube.com/watch?v=tLKKmouUams)
-3. FastAPI 2 часа [https://www.youtube.com/watch?v=Cy9fAvsXGZA](https://www.youtube.com/watch?v=Cy9fAvsXGZA)
-4. FastAPI 4 часа [https://www.youtube.com/watch?v=7t2alSnE2-I](https://www.youtube.com/watch?v=7t2alSnE2-I)
-
-# Рекомендованный путь 3
-
-![](https://i.ibb.co/XpTf5bD/Qrcode-www-postman-com.png)
