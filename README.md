@@ -34,4 +34,6 @@
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdloHzwmZm935z1bpzEHh-lKrqLjULEixFynZ4xpWF-GwNifCfO5HiUIeuwXmKtPu8b4&usqp=CAU)
 
-[link](https://www.postman.com/company/student-program/)
+1. [postman](https://www.postman.com/company/student-program/)
+2. [skillbox](https://live.skillbox.ru)
+3. [hexlet](https://ru.hexlet.io/webinars)
