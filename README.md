@@ -22,7 +22,7 @@
 4. Основы языка Python (практика) [https://pythontutor.ru/](https://pythontutor.ru)
 5. Основы языка Python (пособие) [ссылка](https://disk.yandex.ru/i/Sp90alQKt-z6Bg)
 
-# Рекомендованные сайты
+# Для 50%
 
 1. Канал в видео-уроками [https://www.youtube.com/c/Freecodecamp](https://www.youtube.com/c/Freecodecamp)
 2. Канал с видео-уроками [https://www.youtube.com/c/TheNetNinja](https://www.youtube.com/c/TheNetNinja)
