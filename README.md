@@ -8,6 +8,8 @@
 
 # Мобильные приложения
 
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsSFI-UDJ6s17P8woUZct31qZpqYKLMZjDt9B5_NUcFCxqQPHxvWmZ5FTdsegb1xjLmeE&usqp=CAU)
+
 1. Основы языка Dart, лекции
 2. Создание мобильных приложений на Flutter вариант 1 [link](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
 3. Создание мобильных приложений на Flutter вариант 2 [link](https://www.youtube.com/watch?v=cpkSVwf75-k&list=PL6lh8cTntlDiLlH_rHl5F0JOy_gRm_Wa4)
@@ -15,6 +17,8 @@
 5. Большой (индивидуальный) проект
 
 # Алгоритмы и программирование
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL6NAqiJiYYR8pCgsyu86FiQ_wkbHm1hXCEtddFOZ9NebjDm-KLxklPJMh9F2Pfw5PUdo&usqp=CAU)
 
 1. Основы языка Python (лекции) [https://codecollab.io/@ivansedov/python](https://codecollab.io/@ivansedov/python)
 2. Основы языка Python (лекции) [https://pythontutor.com/live.html#mode=edit](https://pythontutor.com/live.html#mode=edit)
@@ -24,6 +28,8 @@
 
 # Видео-уроки
 
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD5uhIaFsd7kRi8Q2h38qgOreLFFSczd-oE2RI2ur-QFSksmkAyrzcHeP4ki1kzRDgvlI&usqp=CAU)
+
 1. Канал в видео-уроками [https://www.youtube.com/c/Freecodecamp](https://www.youtube.com/c/Freecodecamp)
 2. Канал с видео-уроками [https://www.youtube.com/c/TheNetNinja](https://www.youtube.com/c/TheNetNinja)
 3. Канал видео-уроками [https://www.youtube.com/c/Flutterly](https://www.youtube.com/c/Flutterly)
@@ -32,7 +38,7 @@
 
 # Для 1%
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeHdOyDwSZKb8UKRgxqJZA8qzeVXviexR6WGUBIZKOaOFipJmQHSjdHyuYNGCEf6ykvSs&usqp=CAU)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPHdwUsR0UMlpmiUPVniG53ovZx3uxzFly-mM5GcO5XCFQhq4chGHm524ZuzYZ0tv_D0c&usqp=CAU)
 
 1. [postman](https://www.postman.com/company/student-program/)
 2. [skillbox](https://live.skillbox.ru)
