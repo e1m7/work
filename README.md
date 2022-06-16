@@ -38,7 +38,7 @@
 
 # Для 1%
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdfVT0L_KvCIZ7boTvbR6cF-LI7ilC8noBavwRUHSTPSC7ifnw7eJBeYnwM4opHxxPv7g&usqp=CAU)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1EFFwD7w0m_3rh4gH7ZG1MUvFlsI6Z8U3mMwYSQqtG3bWeznmb5gzAS1TJHR5N4r0BFo&usqp=CAU)
 
 1. [postman](https://www.postman.com/company/student-program/)
 2. [skillbox](https://live.skillbox.ru)
