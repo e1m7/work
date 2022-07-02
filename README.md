@@ -5,7 +5,7 @@
 
 1. Все презентации к лекциям [https://slides.com/ivansedov](https://slides.com/ivansedov)
 2. Все практические к лекциям [https://disk.yandex.ru/d/DGhMJddbb3fuVg](https://disk.yandex.ru/d/DGhMJddbb3fuVg)
-3. Как написать курсовую https://vimeo.com/726261585
+3. Как написать курсовую [https://vimeo.com/726261585](https://vimeo.com/726261585)
 
 # Мобильные приложения
 
