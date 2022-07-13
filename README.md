@@ -3,7 +3,7 @@
 <b>Основной сайт [t.ly/LENA](https://e1m7.github.io/work/)</b><br>
 <b>Запасной сайт [rentry.co/ivansedov](https://rentry.co/ivansedov)</b><br>
 
-# Основные сайты
+# Основные ссылки
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc-3JrMFOZhzJdwdhQ5-Nxw8kIMnYSIltXO32h0qFNxwuoCZsEq268BWC_Z2WO84ybhwA&usqp=CAU)
 
