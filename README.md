@@ -1,6 +1,6 @@
 ![](https://i.ibb.co/4fDXq1N/2022-07-13-23-23-15.png)
 
-<b>Основной сайт [t.ly/LENA](https://e1m7.github.io/work/)</b><br>
+<b>Основной сайт [t.ly/LENA](https://e1m7.github.io/work/) ✔</b><br>
 <b>Запасной сайт [rentry.co/ivansedov](https://rentry.co/ivansedov)</b><br>
 
 ![](https://i.ibb.co/94pcN5W/links.png)
