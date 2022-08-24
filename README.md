@@ -1,15 +1,15 @@
-![](https://fontmeme.com/temporary/e7efbd111705b2a6a3f808cbb1eae94c.png)
+![](https://i.ibb.co/QYwtHLF/sedov.png)
 
 <b>Основной сайт [t.ly/LENA](https://e1m7.github.io/work/) ✔</b><br>
 <b>Запасной сайт [rentry.co/ivansedov](https://rentry.co/ivansedov)</b><br>
 
-![](https://fontmeme.com/temporary/b0ed5826ae112951703168cf9119ccbf.png)
+![](https://i.ibb.co/zQ1b8LC/links.png)
 
 1. Все презентации [https://slides.com/ivansedov](https://slides.com/ivansedov)
 2. Все практические [https://disk.yandex.ru/d/DGhMJddbb3fuVg](https://disk.yandex.ru/d/DGhMJddbb3fuVg)
 3. Курсовая/дипломная работа [https://vimeo.com/726261585](https://vimeo.com/726261585)
 
-![](https://fontmeme.com/temporary/67e0b3f1ffe77efd35f6f45e9cfc3846.png)
+![](https://i.ibb.co/fvw4Mfb/lessons.png)
 
 1. Английский язык [https://www.youtube.com/playlist?list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92](https://www.youtube.com/playlist?list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92)
 2. Английский язык [https://www.youtube.com/playlist?list=PL66DIGaegedqVBwaauzKVk7DNqIFaXrN_](https://www.youtube.com/playlist?list=PL66DIGaegedqVBwaauzKVk7DNqIFaXrN_)
